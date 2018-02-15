@@ -16,7 +16,7 @@ File specific icons from vscode [vscode-icons](https://github.com/vscode-icons/v
 ```typescript
 import { getIconForFile, getIconForFolder, getIconForOpenFolder } from 'vscode-icons-js';
 
-console.log(getIconForFile('main.cpp));
+console.log(getIconForFile('main.cpp'));
 // file_type_cpp.svg
 ```
 
