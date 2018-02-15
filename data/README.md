@@ -1,5 +1,6 @@
 # Data
 
+Those data are used to generate a dictionary (`dict<string, string>`), where key is extension, filename or foldername and value is icon's filename. You can find generated dictionaries in `./src/generated`.
 ## Generated
 
 Those data are generated automatically. Any changes to those files will be overwritten.
