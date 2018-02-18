@@ -497,6 +497,9 @@
   "swig": {
     "defaultExtension": "swig"
   },
+  "systemverilog": {
+    "defaultExtension": "sv"
+  },
   "terraform": {
     "defaultExtension": "tf"
   },
@@ -535,6 +538,9 @@
   },
   "velocity": {
     "defaultExtension": "vm"
+  },
+  "verilog": {
+    "defaultExtension": "v"
   },
   "vhdl": {
     "defaultExtension": "vhdl"

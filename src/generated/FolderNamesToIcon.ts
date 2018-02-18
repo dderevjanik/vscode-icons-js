@@ -109,6 +109,8 @@ export const FolderNamesToIcon: { [key: string]: string } = {
   "models": "folder_type_model.svg",
   ".models": "folder_type_model.svg",
   "mongodb": "folder_type_mongodb.svg",
+  "nginx": "folder_type_nginx.svg",
+  "conf.d": "folder_type_nginx.svg",
   "node_modules": "folder_type_light_node.svg",
   ".nuget": "folder_type_nuget.svg",
   "package": "folder_type_package.svg",

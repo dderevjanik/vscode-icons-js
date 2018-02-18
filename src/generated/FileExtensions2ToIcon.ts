@@ -1,4 +1,5 @@
 export const FileExtensions2ToIcon: { [key: string]: string } = {
+  "gemfile.lock": "file_type_bundler.svg",
   "css.map": "file_type_cssmap.svg",
   "js.flow": "file_type_flow.svg",
   "js.map": "file_type_light_jsmap.svg",
