@@ -56,7 +56,7 @@
     "node-fetch": "^2.0.0",
     "prettier": "^1.10.2",
     "ts-jest": "^22.0.4",
-    "ts-node": "^4.1.0",
+    "ts-node": "^5.0.1",
     "typescript": "^2.7.1"
   }
 }
