@@ -238,6 +238,7 @@ export const LanguagesToIcon: { [key: string]: string } = {
   "styl": "file_type_light_stylus.svg",
   "swagger": "file_type_swagger.svg",
   "swift": "file_type_swift.svg",
+  "swig": "file_type_swig.svg",
   "sv": "file_type_light_systemverilog.svg",
   "tf": "file_type_terraform.svg",
   "sty": "file_type_light_tex.svg",

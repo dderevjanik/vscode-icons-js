@@ -609,6 +609,9 @@
     "_f_bower": {
       "iconPath": "../../icons/file_type_bower.svg"
     },
+    "_f_browserslist": {
+      "iconPath": "../../icons/file_type_browserslist.svg"
+    },
     "_f_buckbuild": {
       "iconPath": "../../icons/file_type_buckbuild.svg"
     },
@@ -1314,6 +1317,9 @@
     "_f_php": {
       "iconPath": "../../icons/file_type_php.svg"
     },
+    "_f_phpcsfixer": {
+      "iconPath": "../../icons/file_type_phpcsfixer.svg"
+    },
     "_f_phpunit": {
       "iconPath": "../../icons/file_type_phpunit.svg"
     },
@@ -1349,6 +1355,9 @@
     },
     "_f_postcss": {
       "iconPath": "../../icons/file_type_postcss.svg"
+    },
+    "_f_postcssconfig": {
+      "iconPath": "../../icons/file_type_postcssconfig.svg"
     },
     "_f_powerpoint": {
       "iconPath": "../../icons/file_type_powerpoint.svg"
@@ -1454,6 +1463,9 @@
     },
     "_f_rollup": {
       "iconPath": "../../icons/file_type_rollup.svg"
+    },
+    "_f_rproj": {
+      "iconPath": "../../icons/file_type_rproj.svg"
     },
     "_f_rspec": {
       "iconPath": "../../icons/file_type_rspec.svg"
@@ -1598,6 +1610,15 @@
     },
     "_f_swift": {
       "iconPath": "../../icons/file_type_swift.svg"
+    },
+    "_f_swig": {
+      "iconPath": "../../icons/file_type_swig.svg"
+    },
+    "_f_symfony": {
+      "iconPath": "../../icons/file_type_symfony.svg"
+    },
+    "_f_light_symfony": {
+      "iconPath": "../../icons/file_type_light_symfony.svg"
     },
     "_f_systemverilog": {
       "iconPath": "../../icons/file_type_systemverilog.svg"
@@ -1763,6 +1784,9 @@
     },
     "_f_light_yaml": {
       "iconPath": "../../icons/file_type_light_yaml.svg"
+    },
+    "_f_yamllint": {
+      "iconPath": "../../icons/file_type_yamllint.svg"
     },
     "_f_yang": {
       "iconPath": "../../icons/file_type_yang.svg"
@@ -2433,6 +2457,7 @@
     "rake": "_f_rake",
     "rt": "_f_reacttemplate",
     "reg": "_f_registry",
+    "rproj": "_f_rproj",
     "sls": "_f_saltstack",
     "sass": "_f_sass",
     "scssm": "_f_scss",
@@ -2544,6 +2569,7 @@
     ".bithoundrc": "_f_bithound",
     ".bowerrc": "_f_bower",
     "bower.json": "_f_bower",
+    ".browserslistrc": "_f_browserslist",
     ".buckconfig": "_f_buckbuild",
     "gemfile": "_f_bundler",
     "gemfile.lock": "_f_bundler",
@@ -2566,7 +2592,9 @@
     "composer.json": "_f_composer",
     "composer.lock": "_f_composer",
     "conanfile.txt": "_f_conan",
+    "conanfile.py": "_f_conan",
     ".env.example": "_f_config",
+    "env.dist": "_f_config",
     ".coveralls.yml": "_f_coveralls",
     "crowdin.yml": "_f_crowdin",
     ".csslintrc": "_f_csslint",
@@ -2671,20 +2699,24 @@
     "package.json": "_f_npm",
     "package-lock.json": "_f_npm",
     ".nycrc": "_f_nyc",
+    ".nycrc.json": "_f_nyc",
     ".merlin": "_f_ocaml",
     "paket.dependencies": "_f_paket",
     "paket.lock": "_f_paket",
     "paket.references": "_f_paket",
     "paket.template": "_f_paket",
     "paket.local": "_f_paket",
+    ".php_cs": "_f_phpcsfixer",
+    ".php_cs.dist": "_f_phpcsfixer",
     "phpunit": "_f_phpunit",
     "phpunit.xml": "_f_phpunit",
     "phpunit.xml.dist": "_f_phpunit",
     ".phraseapp.yml": "_f_phraseapp",
     "pipfile": "_f_pip",
     "pipfile.lock": "_f_pip",
-    ".postcssrc.js": "_f_postcss",
-    "postcss.config.js": "_f_postcss",
+    ".postcssrc": "_f_postcssconfig",
+    ".postcssrc.js": "_f_postcssconfig",
+    "postcss.config.js": "_f_postcssconfig",
     ".prettierrc": "_f_prettier",
     "prettier.config.js": "_f_prettier",
     ".prettierignore": "_f_prettier",
@@ -2723,6 +2755,7 @@
     ".stylelintrc.ts": "_f_stylelint",
     ".svnignore": "_f_subversion",
     "package.pins": "_f_swift",
+    "symfony.lock": "_f_symfony",
     ".tfignore": "_f_tfs",
     ".travis.yml": "_f_travis",
     "tsconfig.json": "_f_tsconfig",
@@ -2827,6 +2860,7 @@
     "webpack.test.conf.coffee": "_f_webpack",
     "webpack.test.conf.ts": "_f_webpack",
     "wercker.yml": "_f_wercker",
+    ".yamllint": "_f_yamllint",
     "yarn.lock": "_f_yarn",
     ".yarnrc": "_f_yarn",
     ".yarnclean": "_f_yarn",
@@ -3026,6 +3060,7 @@
     "Swagger": "_f_swagger",
     "swagger": "_f_swagger",
     "swift": "_f_swift",
+    "swig": "_f_swig",
     "systemverilog": "_f_systemverilog",
     "terraform": "_f_terraform",
     "tex": "_f_tex",
@@ -3708,6 +3743,7 @@
       "rake": "_f_rake",
       "rt": "_f_reacttemplate",
       "reg": "_f_registry",
+      "rproj": "_f_rproj",
       "sls": "_f_saltstack",
       "sass": "_f_sass",
       "scssm": "_f_scss",
@@ -3819,6 +3855,7 @@
       ".bithoundrc": "_f_bithound",
       ".bowerrc": "_f_bower",
       "bower.json": "_f_bower",
+      ".browserslistrc": "_f_browserslist",
       ".buckconfig": "_f_buckbuild",
       "gemfile": "_f_bundler",
       "gemfile.lock": "_f_bundler",
@@ -3841,7 +3878,9 @@
       "composer.json": "_f_composer",
       "composer.lock": "_f_composer",
       "conanfile.txt": "_f_conan",
+      "conanfile.py": "_f_conan",
       ".env.example": "_f_light_config",
+      "env.dist": "_f_light_config",
       ".coveralls.yml": "_f_coveralls",
       "crowdin.yml": "_f_crowdin",
       ".csslintrc": "_f_csslint",
@@ -3946,20 +3985,24 @@
       "package.json": "_f_npm",
       "package-lock.json": "_f_npm",
       ".nycrc": "_f_nyc",
+      ".nycrc.json": "_f_nyc",
       ".merlin": "_f_ocaml",
       "paket.dependencies": "_f_paket",
       "paket.lock": "_f_paket",
       "paket.references": "_f_paket",
       "paket.template": "_f_paket",
       "paket.local": "_f_paket",
+      ".php_cs": "_f_phpcsfixer",
+      ".php_cs.dist": "_f_phpcsfixer",
       "phpunit": "_f_phpunit",
       "phpunit.xml": "_f_phpunit",
       "phpunit.xml.dist": "_f_phpunit",
       ".phraseapp.yml": "_f_phraseapp",
       "pipfile": "_f_pip",
       "pipfile.lock": "_f_pip",
-      ".postcssrc.js": "_f_postcss",
-      "postcss.config.js": "_f_postcss",
+      ".postcssrc": "_f_postcssconfig",
+      ".postcssrc.js": "_f_postcssconfig",
+      "postcss.config.js": "_f_postcssconfig",
       ".prettierrc": "_f_light_prettier",
       "prettier.config.js": "_f_light_prettier",
       ".prettierignore": "_f_light_prettier",
@@ -3998,6 +4041,7 @@
       ".stylelintrc.ts": "_f_light_stylelint",
       ".svnignore": "_f_subversion",
       "package.pins": "_f_swift",
+      "symfony.lock": "_f_light_symfony",
       ".tfignore": "_f_tfs",
       ".travis.yml": "_f_travis",
       "tsconfig.json": "_f_tsconfig",
@@ -4102,6 +4146,7 @@
       "webpack.test.conf.coffee": "_f_webpack",
       "webpack.test.conf.ts": "_f_webpack",
       "wercker.yml": "_f_wercker",
+      ".yamllint": "_f_yamllint",
       "yarn.lock": "_f_yarn",
       ".yarnrc": "_f_yarn",
       ".yarnclean": "_f_yarn",
@@ -4301,6 +4346,7 @@
       "Swagger": "_f_swagger",
       "swagger": "_f_swagger",
       "swift": "_f_swift",
+      "swig": "_f_swig",
       "systemverilog": "_f_light_systemverilog",
       "terraform": "_f_terraform",
       "tex": "_f_light_tex",

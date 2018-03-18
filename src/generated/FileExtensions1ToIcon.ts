@@ -248,6 +248,7 @@ export const FileExtensions1ToIcon: { [key: string]: string } = {
   "rake": "file_type_rake.svg",
   "rt": "file_type_reacttemplate.svg",
   "reg": "file_type_registry.svg",
+  "rproj": "file_type_rproj.svg",
   "sls": "file_type_saltstack.svg",
   "sass": "file_type_sass.svg",
   "scssm": "file_type_scss.svg",
