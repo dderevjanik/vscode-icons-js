@@ -1,6 +1,6 @@
 {
   "name": "vscode-icons-js",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "File specific icons from vscode vscode-icons extension",
   "main": "dist/Index.js",
   "typings": "dist/Index.d.ts",
@@ -15,7 +15,7 @@
     "lint:src": "prettier --write ./src/**/*.{ts,tsx,d.ts}",
     "dev": "tsc --watch",
     "compile": "tsc",
-    "build": "npm test && npm run generate-data && npm run compile"
+    "build": "npm test && npm run generate-data && npm run lint && npm run compile"
   },
   "repository": {
     "type": "git",

@@ -104,6 +104,9 @@
   "cucumber": {
     "defaultExtension": "feature"
   },
+  "cython": {
+    "defaultExtension": "pyx"
+  },
   "dal": {
     "defaultExtension": "dal"
   },
@@ -350,6 +353,9 @@
   "perl6": {
     "defaultExtension": "pl6"
   },
+  "pgsql": {
+    "defaultExtension": "pgsql"
+  },
   "php": {
     "defaultExtension": "php"
   },
@@ -392,11 +398,17 @@
   "purescript": {
     "defaultExtension": "purs"
   },
+  "pyret": {
+    "defaultExtension": "arr"
+  },
   "python": {
     "defaultExtension": "py"
   },
   "qlik": {
     "defaultExtension": "qvs"
+  },
+  "qsharp": {
+    "defaultExtension": "qs"
   },
   "r": {
     "defaultExtension": "r"
@@ -449,6 +461,9 @@
   "shellscript": {
     "defaultExtension": "sh"
   },
+  "slang": {
+    "defaultExtension": "slang"
+  },
   "slice": {
     "defaultExtension": "ice"
   },
@@ -499,6 +514,9 @@
   },
   "systemverilog": {
     "defaultExtension": "sv"
+  },
+  "t4": {
+    "defaultExtension": "tt"
   },
   "terraform": {
     "defaultExtension": "tf"

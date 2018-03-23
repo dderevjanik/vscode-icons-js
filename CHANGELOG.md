@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## [1.1.2] - 2018-03-23
+
+- Updated vscode-icons to `7.22.0`
+
 ## [1.1.1] - 2018-03-18
 
 - Fixed main from `dist/index.js` to `dist/Index.js`
