@@ -122,6 +122,12 @@
   "dockerfile": {
     "defaultExtension": "dockerfile"
   },
+  "doctex": {
+    "defaultExtension": "dtx"
+  },
+  "dotenv": {
+    "defaultExtension": "env"
+  },
   "doxygen": {
     "defaultExtension": "dox"
   },
@@ -212,6 +218,9 @@
   "haxe": {
     "defaultExtension": "haxe"
   },
+  "helm": {
+    "defaultExtension": "helm.tpl"
+  },
   "hlsl": {
     "defaultExtension": "hlsl"
   },
@@ -245,6 +254,9 @@
   "jekyll": {
     "defaultExtension": "jekyll"
   },
+  "jenkins": {
+    "defaultExtension": "jenkins"
+  },
   "jinja": {
     "defaultExtension": "jinja"
   },
@@ -252,7 +264,7 @@
     "defaultExtension": "json"
   },
   "jsonc": {
-    "defaultExtension": "json"
+    "defaultExtension": "jsonc"
   },
   "json5": {
     "defaultExtension": "json5"
@@ -307,6 +319,12 @@
   },
   "mediawiki": {
     "defaultExtension": "mediawiki"
+  },
+  "mel": {
+    "defaultExtension": "mel"
+  },
+  "meson": {
+    "defaultExtension": "meson.build"
   },
   "mjml": {
     "defaultExtension": "mjml"
@@ -545,6 +563,9 @@
   "typescriptreact": {
     "defaultExtension": "tsx"
   },
+  "typo3": {
+    "defaultExtension": "typoscript"
+  },
   "vb": {
     "defaultExtension": "vb"
   },
@@ -574,6 +595,9 @@
   },
   "wolfram": {
     "defaultExtension": "wl"
+  },
+  "wurst": {
+    "defaultExtension": "wurst"
   },
   "wxml": {
     "defaultExtension": "wxml"

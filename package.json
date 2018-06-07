@@ -1,12 +1,11 @@
 {
   "name": "vscode-icons-js",
-  "version": "1.1.2",
+  "version": "7.23.0",
   "description": "File specific icons from vscode vscode-icons extension",
   "main": "dist/Index.js",
   "typings": "dist/Index.d.ts",
   "scripts": {
-    "test": "jest",
-    "test:dev": "jest --watch",
+    "test": "jasmine-ts test/**/*.test.ts",
     "test:scripts": "npm run script:extract-data-from-vsi && npm run script:create-icons-data",
     "script:extract-data-from-vsi": "ts-node ./scripts/extract-data-from-vsi.script.ts",
     "script:create-icons-data": "ts-node ./scripts/create-icons-data.script.ts",
@@ -25,24 +24,10 @@
     "email": "daniel.derevjanik@gmail.com",
     "name": "Daniel Derevjanik"
   },
-  "jest": {
-    "transform": {
-      ".(ts|tsx)": "<rootDir>/node_modules/ts-jest/preprocessor.js"
-    },
-    "testRegex": "(/__tests__/.*|\\.(test|spec))\\.(ts|tsx|js)$",
-    "moduleFileExtensions": [
-      "ts",
-      "tsx",
-      "js"
-    ],
-    "collectCoverage": false,
-    "testEnvironment": "node"
-  },
   "keywords": [
     "typescript",
-    "boilerplate",
-    "template",
-    "starter"
+    "vscode-icons",
+    "github-vscode-icons"
   ],
   "license": "MIT",
   "bugs": {
@@ -50,15 +35,17 @@
   },
   "homepage": "https://github.com/dderevjanik/vscode-icons-js#readme",
   "devDependencies": {
-    "@types/jest": "^22.1.2",
-    "@types/node": "^9.4.6",
-    "@types/node-fetch": "^1.6.7",
-    "chalk": "^2.3.1",
-    "jest": "^22.3.0",
-    "node-fetch": "^2.0.0",
-    "prettier": "^1.10.2",
-    "ts-jest": "^22.0.4",
-    "ts-node": "^5.0.1",
-    "typescript": "^2.7.1"
+    "@types/node": "^10.3.1",
+    "@types/node-fetch": "^2.1.1",
+    "chalk": "^2.4.1",
+    "jasmine": "^3.1.0",
+    "jasmine-ts": "^0.2.1",
+    "node-fetch": "^2.1.2",
+    "prettier": "^1.13.4",
+    "ts-node": "^6.1.0",
+    "typescript": "^2.9.1"
+  },
+  "dependencies": {
+    "@types/jasmine": "^2.8.8"
   }
 }

@@ -177,6 +177,7 @@ export const FolderNamesToIcon: { [key: string]: string } = {
   typescript: 'folder_type_typescript.svg',
   ts: 'folder_type_typescript.svg',
   typings: 'folder_type_typings.svg',
+  '@types': 'folder_type_typings.svg',
   vagrant: 'folder_type_vagrant.svg',
   '.vagrant': 'folder_type_vagrant.svg',
   video: 'folder_type_video.svg',
