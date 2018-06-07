@@ -19,12 +19,15 @@ console.log(getIconForFile('main.cpp'));
 // file_type_cpp.svg
 ```
 
-## How to
+## Example
 
-This lib only displays icons filename based on your input. Additionally, you will need
-to download all icons from [vscode-icons](https://github.com/vscode-icons/vscode-icons/tree/master/icons).
+https://dderevjanik.github.io/vscode-icons-js-example/
+
+Source Code:
+https://github.com/dderevjanik/vscode-icons-js-example
 
 ## Related
 
 - [vscode-icons](https://github.com/vscode-icons/vscode-icons) extension for vscode
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) extension for chrome, which shows vscode-icons icons in github repository
+- [vscode-icons-js-example](https://github.com/dderevjanik/vscode-icons-js-example) example
