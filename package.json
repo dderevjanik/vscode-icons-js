@@ -42,7 +42,7 @@
     "jasmine-ts": "^0.2.1",
     "node-fetch": "^2.1.2",
     "prettier": "^1.13.4",
-    "ts-node": "^6.1.0",
+    "ts-node": "^7.0.0",
     "typescript": "^2.9.1"
   },
   "dependencies": {
