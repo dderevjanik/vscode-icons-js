@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## [7.25.0] - 2018-08-02
+
+- Fixed issue [#12](https://github.com/dderevjanik/vscode-icons-js/issues/12)
+- Updated vscode-icons to `7.25.0`
+- Improved script for generating icons definitions
+
 ## [7.23.0] - 2018-07-06
 
 - Updated vscode-icons to `7.23.0`

@@ -26,6 +26,16 @@ describe('Icons test', () => {
       ]);
     });
 
+    it('should return icons by special filenames, but defined by vscode langs', () => {
+      expect([
+        getIconForFile('Jenkinsfile'),
+        getIconForFile('guardfile')
+      ]).toEqual([
+        'file_type_groovy.svg',
+        'file_type_ruby.svg'
+      ])
+    });
+
     it('should return icons by extensions', () => {
       expect([
         getIconForFile('All.test.ts'),

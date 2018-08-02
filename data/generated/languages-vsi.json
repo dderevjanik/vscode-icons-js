@@ -113,6 +113,9 @@
   "dart": {
     "defaultExtension": "dart"
   },
+  "django": {
+    "defaultExtension": "html"
+  },
   "diff": {
     "defaultExtension": "diff"
   },
@@ -592,6 +595,9 @@
   },
   "vue": {
     "defaultExtension": "vue"
+  },
+  "wasm": {
+    "defaultExtension": "wasm"
   },
   "wolfram": {
     "defaultExtension": "wl"

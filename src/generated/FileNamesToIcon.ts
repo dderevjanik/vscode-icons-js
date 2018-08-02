@@ -8,7 +8,9 @@ export const FileNamesToIcon: { [key: string]: string } = {
   'aurelia.json': 'file_type_aurelia.svg',
   '.babelrc': 'file_type_light_babel.svg',
   'babelrc.js': 'file_type_light_babel.svg',
+  '.babelrc.js': 'file_type_light_babel.svg',
   'babel.config.js': 'file_type_light_babel.svg',
+  '.babelignore': 'file_type_light_babel.svg',
   '.bzrignore': 'file_type_bazaar.svg',
   '.bithoundrc': 'file_type_bithound.svg',
   '.bowerrc': 'file_type_bower.svg',
@@ -346,5 +348,11 @@ export const FileNamesToIcon: { [key: string]: string } = {
   '.yarn-integrity': 'file_type_yarn.svg',
   '.yarn-metadata.json': 'file_type_yarn.svg',
   '.yarnignore': 'file_type_yarn.svg',
-  '.yo-rc.json': 'file_type_yeoman.svg'
+  '.yo-rc.json': 'file_type_yeoman.svg',
+  Jenkinsfile: 'file_type_groovy.svg',
+  config: 'file_type_ini.svg',
+  gitconfig: 'file_type_ini.svg',
+  guardfile: 'file_type_ruby.svg',
+  podfile: 'file_type_ruby.svg',
+  capfile: 'file_type_ruby.svg'
 };

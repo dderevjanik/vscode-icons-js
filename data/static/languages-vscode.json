@@ -9,7 +9,7 @@
       "extensions": [".coffee", ".cson"]
     },
     "cpp": {
-      "extensions": [".cpp", ".cc", ".cxx", ".hpp", ".hh", ".hxx", ".h", ".ino", ".inl"]
+      "extensions": [".cpp", ".cc", ".cxx", ".hpp", ".hh", ".hxx", ".h", ".ino", ".inl", ".ipp"]
     },
     "csharp": {
       "extensions": [".cs", ".csx", ".cake"]
@@ -26,6 +26,9 @@
     },
     "fsharp": {
       "extensions": [".fs", ".fsi", ".fsx", ".fsscript"]
+    },
+    "git": {
+      "extensions": [".patch", ".diff", ".rej"]
     },
     "go": {
       "extensions": [".go"]
