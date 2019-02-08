@@ -12,7 +12,7 @@ import { basename, extname } from "path"
 const log = log4js.getLogger(basename(__filename, extname(__filename)));
 log.level = "debug";
 
-const LANG_URL = 'https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/src/icon-manifest/languages.ts';
+const LANG_URL = 'https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/src/iconsManifest/languages.ts';
 
 const reKey = /(.*?):/;
 const reIds = /ids:.*'(.*?)'/;

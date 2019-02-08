@@ -41,6 +41,12 @@
   "avro": {
     "defaultExtension": "avcs"
   },
+  "azcli": {
+    "defaultExtension": "azcli"
+  },
+  "ids": {
+    "defaultExtension": "azure-pipelines"
+  },
   "bat": {
     "defaultExtension": "bat"
   },
@@ -64,6 +70,9 @@
   },
   "cabal": {
     "defaultExtension": "cabal"
+  },
+  "caddyfile": {
+    "defaultExtension": "Caddyfile"
   },
   "cfc": {
     "defaultExtension": "cfc"
@@ -164,6 +173,9 @@
   "erlang": {
     "defaultExtension": "erl"
   },
+  "falcon": {
+    "defaultExtension": "falcon"
+  },
   "fortran": {
     "defaultExtension": "f"
   },
@@ -238,6 +250,9 @@
   },
   "ini": {
     "defaultExtension": "ini"
+  },
+  "ink": {
+    "defaultExtension": "ink"
   },
   "io": {
     "defaultExtension": "io"
@@ -368,6 +383,15 @@
   "pascal": {
     "defaultExtension": "pas"
   },
+  "pddl": {
+    "defaultExtension": "pddl"
+  },
+  "pddlplan": {
+    "defaultExtension": "plan"
+  },
+  "pddlhappenings": {
+    "defaultExtension": "happenings"
+  },
   "perl": {
     "defaultExtension": "pl"
   },
@@ -445,6 +469,9 @@
   },
   "reason": {
     "defaultExtension": "re"
+  },
+  "red": {
+    "defaultExtension": "red"
   },
   "restructuredtext": {
     "defaultExtension": "rst"
@@ -538,6 +565,9 @@
   },
   "t4": {
     "defaultExtension": "tt"
+  },
+  "templatetoolkit": {
+    "defaultExtension": "tt3"
   },
   "terraform": {
     "defaultExtension": "tf"

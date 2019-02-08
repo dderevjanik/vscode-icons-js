@@ -522,6 +522,15 @@
     "_f_actionscript": {
       "iconPath": "../../icons/file_type_actionscript.svg"
     },
+    "_f_affinitydesigner": {
+      "iconPath": "../../icons/file_type_affinitydesigner.svg"
+    },
+    "_f_affinityphoto": {
+      "iconPath": "../../icons/file_type_affinityphoto.svg"
+    },
+    "_f_affinitypublisher": {
+      "iconPath": "../../icons/file_type_affinitypublisher.svg"
+    },
     "_f_ai": {
       "iconPath": "../../icons/file_type_ai.svg"
     },
@@ -585,6 +594,12 @@
     "_f_aws": {
       "iconPath": "../../icons/file_type_aws.svg"
     },
+    "_f_azure": {
+      "iconPath": "../../icons/file_type_azure.svg"
+    },
+    "_f_azurepipelines": {
+      "iconPath": "../../icons/file_type_azurepipelines.svg"
+    },
     "_f_babel": {
       "iconPath": "../../icons/file_type_babel.svg"
     },
@@ -602,6 +617,9 @@
     },
     "_f_binary": {
       "iconPath": "../../icons/file_type_binary.svg"
+    },
+    "_f_bitbucketpipeline": {
+      "iconPath": "../../icons/file_type_bitbucketpipeline.svg"
     },
     "_f_bithound": {
       "iconPath": "../../icons/file_type_bithound.svg"
@@ -632,6 +650,9 @@
     },
     "_f_cabal": {
       "iconPath": "../../icons/file_type_cabal.svg"
+    },
+    "_f_caddy": {
+      "iconPath": "../../icons/file_type_caddy.svg"
     },
     "_f_cake": {
       "iconPath": "../../icons/file_type_cake.svg"
@@ -876,6 +897,9 @@
     "_f_excel": {
       "iconPath": "../../icons/file_type_excel.svg"
     },
+    "_f_falcon": {
+      "iconPath": "../../icons/file_type_falcon.svg"
+    },
     "_f_favicon": {
       "iconPath": "../../icons/file_type_favicon.svg"
     },
@@ -885,8 +909,20 @@
     "_f_firebase": {
       "iconPath": "../../icons/file_type_firebase.svg"
     },
+    "_f_firebasehosting": {
+      "iconPath": "../../icons/file_type_firebasehosting.svg"
+    },
+    "_f_light_firebasehosting": {
+      "iconPath": "../../icons/file_type_light_firebasehosting.svg"
+    },
     "_f_firestore": {
       "iconPath": "../../icons/file_type_firestore.svg"
+    },
+    "_f_fla": {
+      "iconPath": "../../icons/file_type_fla.svg"
+    },
+    "_f_light_fla": {
+      "iconPath": "../../icons/file_type_light_fla.svg"
     },
     "_f_flash": {
       "iconPath": "../../icons/file_type_flash.svg"
@@ -896,6 +932,12 @@
     },
     "_f_flow": {
       "iconPath": "../../icons/file_type_flow.svg"
+    },
+    "_f_flutter": {
+      "iconPath": "../../icons/file_type_flutter.svg"
+    },
+    "_f_flutter_package": {
+      "iconPath": "../../icons/file_type_flutter_package.svg"
     },
     "_f_font": {
       "iconPath": "../../icons/file_type_font.svg"
@@ -954,6 +996,9 @@
     "_f_go": {
       "iconPath": "../../icons/file_type_go.svg"
     },
+    "_f_go_package": {
+      "iconPath": "../../icons/file_type_go_package.svg"
+    },
     "_f_godot": {
       "iconPath": "../../icons/file_type_godot.svg"
     },
@@ -965,6 +1010,9 @@
     },
     "_f_graphviz": {
       "iconPath": "../../icons/file_type_graphviz.svg"
+    },
+    "_f_gridsome": {
+      "iconPath": "../../icons/file_type_gridsome.svg"
     },
     "_f_groovy": {
       "iconPath": "../../icons/file_type_groovy.svg"
@@ -1037,6 +1085,9 @@
     },
     "_f_light_ini": {
       "iconPath": "../../icons/file_type_light_ini.svg"
+    },
+    "_f_ink": {
+      "iconPath": "../../icons/file_type_ink.svg"
     },
     "_f_io": {
       "iconPath": "../../icons/file_type_io.svg"
@@ -1169,6 +1220,9 @@
     },
     "_f_lime": {
       "iconPath": "../../icons/file_type_lime.svg"
+    },
+    "_f_lintstagedrc": {
+      "iconPath": "../../icons/file_type_lintstagedrc.svg"
     },
     "_f_liquid": {
       "iconPath": "../../icons/file_type_liquid.svg"
@@ -1335,6 +1389,9 @@
     "_f_outlook": {
       "iconPath": "../../icons/file_type_outlook.svg"
     },
+    "_f_ovpn": {
+      "iconPath": "../../icons/file_type_ovpn.svg"
+    },
     "_f_package": {
       "iconPath": "../../icons/file_type_package.svg"
     },
@@ -1349,6 +1406,15 @@
     },
     "_f_light_pcl": {
       "iconPath": "../../icons/file_type_light_pcl.svg"
+    },
+    "_f_pddl": {
+      "iconPath": "../../icons/file_type_pddl.svg"
+    },
+    "_f_pddl_happenings": {
+      "iconPath": "../../icons/file_type_pddl_happenings.svg"
+    },
+    "_f_pddl_plan": {
+      "iconPath": "../../icons/file_type_pddl_plan.svg"
     },
     "_f_pdf": {
       "iconPath": "../../icons/file_type_pdf.svg"
@@ -1415,6 +1481,12 @@
     },
     "_f_powershell": {
       "iconPath": "../../icons/file_type_powershell.svg"
+    },
+    "_f_powershell_psd": {
+      "iconPath": "../../icons/file_type_powershell_psd.svg"
+    },
+    "_f_powershell_psm": {
+      "iconPath": "../../icons/file_type_powershell_psm.svg"
     },
     "_f_prettier": {
       "iconPath": "../../icons/file_type_prettier.svg"
@@ -1505,6 +1577,9 @@
     },
     "_f_reason": {
       "iconPath": "../../icons/file_type_reason.svg"
+    },
+    "_f_red": {
+      "iconPath": "../../icons/file_type_red.svg"
     },
     "_f_registry": {
       "iconPath": "../../icons/file_type_registry.svg"
@@ -1692,6 +1767,9 @@
     "_f_t4tt": {
       "iconPath": "../../icons/file_type_t4tt.svg"
     },
+    "_f_tailwind": {
+      "iconPath": "../../icons/file_type_tailwind.svg"
+    },
     "_f_tcl": {
       "iconPath": "../../icons/file_type_tcl.svg"
     },
@@ -1734,6 +1812,9 @@
     "_f_toml": {
       "iconPath": "../../icons/file_type_toml.svg"
     },
+    "_f_light_toml": {
+      "iconPath": "../../icons/file_type_light_toml.svg"
+    },
     "_f_travis": {
       "iconPath": "../../icons/file_type_travis.svg"
     },
@@ -1742,6 +1823,9 @@
     },
     "_f_tslint": {
       "iconPath": "../../icons/file_type_tslint.svg"
+    },
+    "_f_tt": {
+      "iconPath": "../../icons/file_type_tt.svg"
     },
     "_f_twig": {
       "iconPath": "../../icons/file_type_twig.svg"
@@ -1827,6 +1911,9 @@
     "_f_watchmanconfig": {
       "iconPath": "../../icons/file_type_watchmanconfig.svg"
     },
+    "_f_webp": {
+      "iconPath": "../../icons/file_type_webp.svg"
+    },
     "_f_webpack": {
       "iconPath": "../../icons/file_type_webpack.svg"
     },
@@ -1851,6 +1938,12 @@
     "_f_xcode": {
       "iconPath": "../../icons/file_type_xcode.svg"
     },
+    "_f_xfl": {
+      "iconPath": "../../icons/file_type_xfl.svg"
+    },
+    "_f_light_xfl": {
+      "iconPath": "../../icons/file_type_light_xfl.svg"
+    },
     "_f_xib": {
       "iconPath": "../../icons/file_type_xib.svg"
     },
@@ -1871,6 +1964,9 @@
     },
     "_f_yamllint": {
       "iconPath": "../../icons/file_type_yamllint.svg"
+    },
+    "_f_yandex": {
+      "iconPath": "../../icons/file_type_yandex.svg"
     },
     "_f_yang": {
       "iconPath": "../../icons/file_type_yang.svg"
@@ -1929,6 +2025,7 @@
     "db": "_fd_db",
     "database": "_fd_db",
     "sql": "_fd_db",
+    "data": "_fd_db",
     "debian": "_fd_debian",
     "dist": "_fd_dist",
     "out": "_fd_dist",
@@ -1943,6 +2040,7 @@
     ".elasticbeanstalk": "_fd_elasticbeanstalk",
     ".ebextensions": "_fd_elasticbeanstalk",
     "flow": "_fd_flow",
+    "flow-typed": "_fd_flow",
     "fonts": "_fd_fonts",
     "font": "_fd_fonts",
     "fnt": "_fd_fonts",
@@ -1965,6 +2063,7 @@
     "ico": "_fd_images",
     "screenshot": "_fd_images",
     "screenshots": "_fd_images",
+    "svg": "_fd_images",
     "include": "_fd_include",
     "includes": "_fd_include",
     "incl": "_fd_include",
@@ -2003,6 +2102,7 @@
     "models": "_fd_model",
     ".models": "_fd_model",
     "mongodb": "_fd_mongodb",
+    "mongo": "_fd_mongodb",
     "nginx": "_fd_nginx",
     "conf.d": "_fd_nginx",
     "node_modules": "_fd_node",
@@ -2031,6 +2131,7 @@
     "routes": "_fd_route",
     "_route": "_fd_route",
     "_routes": "_fd_route",
+    "routers": "_fd_route",
     "sass": "_fd_sass",
     "scss": "_fd_sass",
     "_sass": "_fd_sass",
@@ -2131,6 +2232,7 @@
     "db": "_fd_db_open",
     "database": "_fd_db_open",
     "sql": "_fd_db_open",
+    "data": "_fd_db_open",
     "debian": "_fd_debian_open",
     "dist": "_fd_dist_open",
     "out": "_fd_dist_open",
@@ -2145,6 +2247,7 @@
     ".elasticbeanstalk": "_fd_elasticbeanstalk_open",
     ".ebextensions": "_fd_elasticbeanstalk_open",
     "flow": "_fd_flow_open",
+    "flow-typed": "_fd_flow_open",
     "fonts": "_fd_fonts_open",
     "font": "_fd_fonts_open",
     "fnt": "_fd_fonts_open",
@@ -2167,6 +2270,7 @@
     "ico": "_fd_images_open",
     "screenshot": "_fd_images_open",
     "screenshots": "_fd_images_open",
+    "svg": "_fd_images_open",
     "include": "_fd_include_open",
     "includes": "_fd_include_open",
     "incl": "_fd_include_open",
@@ -2205,6 +2309,7 @@
     "models": "_fd_model_open",
     ".models": "_fd_model_open",
     "mongodb": "_fd_mongodb_open",
+    "mongo": "_fd_mongodb_open",
     "nginx": "_fd_nginx_open",
     "conf.d": "_fd_nginx_open",
     "node_modules": "_fd_node_open",
@@ -2233,6 +2338,7 @@
     "routes": "_fd_route_open",
     "_route": "_fd_route_open",
     "_routes": "_fd_route_open",
+    "routers": "_fd_route_open",
     "sass": "_fd_sass_open",
     "scss": "_fd_sass_open",
     "_sass": "_fd_sass_open",
@@ -2311,6 +2417,12 @@
     "mam": "_f_access",
     "maq": "_f_access",
     "mdw": "_f_access",
+    "afdesign": "_f_affinitydesigner",
+    "affinitydesigner": "_f_affinitydesigner",
+    "afphoto": "_f_affinityphoto",
+    "affinityphoto": "_f_affinityphoto",
+    "afpub": "_f_affinitypublisher",
+    "affinitypublisher": "_f_affinitypublisher",
     "ai": "_f_ai",
     "ino": "_f_arduino",
     "pde": "_f_arduino",
@@ -2408,7 +2520,9 @@
     "xlsx": "_f_excel",
     "xlsm": "_f_excel",
     "ods": "_f_excel",
+    "fods": "_f_excel",
     "fbx": "_f_fbx",
+    "fla": "_f_fla",
     "swf": "_f_flash",
     "swc": "_f_flash",
     "js.flow": "_f_flow",
@@ -2502,6 +2616,7 @@
     "otm": "_f_outlook",
     "msg": "_f_outlook",
     "oft": "_f_outlook",
+    "ovpn": "_f_ovpn",
     "pkg": "_f_package",
     "patch": "_f_patch",
     "pcd": "_f_pcl",
@@ -2542,6 +2657,8 @@
     "ppam": "_f_powerpoint",
     "sldm": "_f_powerpoint",
     "sldx": "_f_powerpoint",
+    "psd1": "_f_powershell_psd",
+    "psm1": "_f_powershell_psm",
     "pro": "_f_prolog",
     "P": "_f_prolog",
     "pub": "_f_publisher",
@@ -2581,8 +2698,10 @@
     "tst": "_f_test",
     "test.js": "_f_testjs",
     "test.jsx": "_f_testjs",
+    "test.mjs": "_f_testjs",
     "spec.js": "_f_testjs",
     "spec.jsx": "_f_testjs",
+    "spec.mjs": "_f_testjs",
     "test.ts": "_f_testts",
     "test.tsx": "_f_testts",
     "spec.ts": "_f_testts",
@@ -2590,6 +2709,7 @@
     "texi": "_f_tex",
     "csv": "_f_text",
     "todo": "_f_todo",
+    "tt2": "_f_tt",
     "d.ts": "_f_typescriptdef",
     "vala": "_f_vala",
     "vapi": "_f_vapi",
@@ -2631,6 +2751,7 @@
     "wmv": "_f_video",
     "vsix": "_f_vsix",
     "wasm": "_f_wasm",
+    "webp": "_f_webp",
     "doc": "_f_word",
     "docx": "_f_word",
     "docm": "_f_word",
@@ -2641,6 +2762,7 @@
     "wxml": "_f_wxml",
     "wxss": "_f_wxss",
     "xcodeproj": "_f_xcode",
+    "xfl": "_f_xfl",
     "xib": "_f_xib",
     "xliff": "_f_xliff",
     "xlf": "_f_xliff",
@@ -2663,12 +2785,18 @@
     "appveyor.yml": "_f_appveyor",
     ".appveyor.yml": "_f_appveyor",
     "aurelia.json": "_f_aurelia",
+    "azure-pipelines.yml": "_f_azurepipelines",
     ".babelrc": "_f_babel",
     "babelrc.js": "_f_babel",
     ".babelrc.js": "_f_babel",
+    "babelrc.json": "_f_babel",
     "babel.config.js": "_f_babel",
     ".babelignore": "_f_babel",
     ".bzrignore": "_f_bazaar",
+    ".bazelrc": "_f_bazel",
+    "bazel.rc": "_f_bazel",
+    "bazel.bazelrc": "_f_bazel",
+    "bitbucket-pipelines.yml": "_f_bitbucketpipeline",
     ".bithoundrc": "_f_bithound",
     ".bowerrc": "_f_bower",
     "bower.json": "_f_bower",
@@ -2731,9 +2859,15 @@
     ".eslintrc.yml": "_f_eslint",
     "favicon.ico": "_f_favicon",
     ".firebaserc": "_f_firebase",
+    "firebase.json": "_f_firebasehosting",
     "firestore.rules": "_f_firestore",
     ".flooignore": "_f_floobits",
     ".flowconfig": "_f_flow",
+    ".flutter-plugins": "_f_flutter",
+    ".metadata": "_f_flutter",
+    "pubspec.lock": "_f_flutter_package",
+    "pubspec.yaml": "_f_flutter_package",
+    ".packages": "_f_flutter_package",
     ".fossaignore": "_f_fossa",
     "ignore-glob": "_f_fossil",
     "fuse.js": "_f_fusebox",
@@ -2742,9 +2876,14 @@
     ".gitignore": "_f_git",
     ".gitmodules": "_f_git",
     ".gitkeep": "_f_git",
+    ".mailmap": "_f_git",
     ".gitlab-ci.yml": "_f_gitlab",
     "glide.yml": "_f_glide",
+    "go.sum": "_f_go_package",
+    "go.mod": "_f_go_package",
     ".gqlconfig": "_f_graphql",
+    "gridsome.config.js": "_f_gridsome",
+    "gridsome.config.ts": "_f_gridsome",
     "gruntfile.js": "_f_grunt",
     "gruntfile.coffee": "_f_grunt",
     "gruntfile.ts": "_f_grunt",
@@ -2792,6 +2931,7 @@
     "licence.md": "_f_license",
     "licence.txt": "_f_license",
     "include.xml": "_f_lime",
+    ".lintstagedrc": "_f_lintstagedrc",
     "manifest": "_f_manifest",
     "manifest.bak": "_f_manifest_bak",
     "manifest.skip": "_f_manifest_skip",
@@ -2811,6 +2951,7 @@
     ".npmrc": "_f_npm",
     "package.json": "_f_npm",
     "package-lock.json": "_f_npm",
+    "npm-shrinkwrap.json": "_f_npm",
     "nuxt.config.js": "_f_nuxt",
     "nuxt.config.ts": "_f_nuxt",
     ".nycrc": "_f_nyc",
@@ -2830,6 +2971,8 @@
     "pipfile": "_f_pip",
     "pipfile.lock": "_f_pip",
     ".postcssrc": "_f_postcssconfig",
+    ".postcssrc.json": "_f_postcssconfig",
+    ".postcssrc.yml": "_f_postcssconfig",
     ".postcssrc.js": "_f_postcssconfig",
     "postcss.config.js": "_f_postcssconfig",
     ".prettierrc": "_f_prettier",
@@ -2854,7 +2997,17 @@
     "rakefile": "_f_rake",
     "robots.txt": "_f_robots",
     "rollup.config.js": "_f_rollup",
+    "rollup.config.coffee": "_f_rollup",
     "rollup.config.ts": "_f_rollup",
+    "rollup.config.common.js": "_f_rollup",
+    "rollup.config.common.coffee": "_f_rollup",
+    "rollup.config.common.ts": "_f_rollup",
+    "rollup.config.dev.js": "_f_rollup",
+    "rollup.config.dev.coffee": "_f_rollup",
+    "rollup.config.dev.ts": "_f_rollup",
+    "rollup.config.prod.js": "_f_rollup",
+    "rollup.config.prod.coffee": "_f_rollup",
+    "rollup.config.prod.ts": "_f_rollup",
     ".rspec": "_f_rspec",
     ".rubocop.yml": "_f_rubocop",
     ".rubocop_todo.yml": "_f_rubocop",
@@ -2878,6 +3031,12 @@
     ".svnignore": "_f_subversion",
     "package.pins": "_f_swift",
     "symfony.lock": "_f_symfony",
+    "tailwind.js": "_f_tailwind",
+    "tailwind.coffee": "_f_tailwind",
+    "tailwind.ts": "_f_tailwind",
+    "tailwind.config.js": "_f_tailwind",
+    "tailwind.config.coffee": "_f_tailwind",
+    "tailwind.config.ts": "_f_tailwind",
     ".tfignore": "_f_tfs",
     ".travis.yml": "_f_travis",
     "tsconfig.json": "_f_tsconfig",
@@ -2999,6 +3158,8 @@
     "webpack.test.conf.ts": "_f_webpack",
     "wercker.yml": "_f_wercker",
     ".yamllint": "_f_yamllint",
+    ".yaspellerrc": "_f_yandex",
+    ".yaspeller.json": "_f_yandex",
     "yarn.lock": "_f_yarn",
     ".yarnrc": "_f_yarn",
     ".yarnclean": "_f_yarn",
@@ -3024,6 +3185,8 @@
     "ahk": "_f_autohotkey",
     "autoit": "_f_autoit",
     "avro": "_f_avro",
+    "azcli": "_f_azure",
+    "azure-pipelines": "_f_azurepipelines",
     "bat": "_f_bat",
     "bazel": "_f_bazel",
     "blade": "_f_blade",
@@ -3032,6 +3195,7 @@
     "c": "_f_c",
     "c-al": "_f_c_al",
     "cabal": "_f_cabal",
+    "caddyfile": "_f_caddy",
     "cfml": "_f_cf",
     "lang-cfml": "_f_cf",
     "cfc": "_f_cfc",
@@ -3074,6 +3238,7 @@
     "elm": "_f_elm",
     "erb": "_f_erb",
     "erlang": "_f_erlang",
+    "falcon": "_f_falcon",
     "fortran": "_f_fortran",
     "fortran-modern": "_f_fortran",
     "ftl": "_f_freemarker",
@@ -3104,6 +3269,7 @@
     "html": "_f_html",
     "http": "_f_http",
     "ini": "_f_ini",
+    "ink": "_f_ink",
     "io": "_f_io",
     "iodine": "_f_iodine",
     "java": "_f_java",
@@ -3152,6 +3318,9 @@
     "ocamllex": "_f_ocaml",
     "menhir": "_f_ocaml",
     "openhab": "_f_openHAB",
+    "pddl": "_f_pddl",
+    "happenings": "_f_pddl_happenings",
+    "plan": "_f_pddl_plan",
     "perl": "_f_perl",
     "perl6": "_f_perl6",
     "pgsql": "_f_pgsql",
@@ -3178,9 +3347,11 @@
     "racket": "_f_racket",
     "raml": "_f_raml",
     "razor": "_f_razor",
+    "aspnetcorerazor": "_f_razor",
     "javascriptreact": "_f_reactjs",
     "typescriptreact": "_f_reactts",
     "reason": "_f_reason",
+    "red": "_f_red",
     "restructuredtext": "_f_rest",
     "riot": "_f_riot",
     "robot": "_f_robotframework",
@@ -3222,6 +3393,7 @@
     "plaintext": "_f_text",
     "textile": "_f_textile",
     "toml": "_f_toml",
+    "tt": "_f_tt",
     "twig": "_f_twig",
     "typescript": "_f_typescript",
     "typoscript": "_f_typo3",
@@ -3289,6 +3461,7 @@
       "db": "_fd_db",
       "database": "_fd_db",
       "sql": "_fd_db",
+      "data": "_fd_db",
       "debian": "_fd_debian",
       "dist": "_fd_dist",
       "out": "_fd_dist",
@@ -3303,6 +3476,7 @@
       ".elasticbeanstalk": "_fd_elasticbeanstalk",
       ".ebextensions": "_fd_elasticbeanstalk",
       "flow": "_fd_flow",
+      "flow-typed": "_fd_flow",
       "fonts": "_fd_light_fonts",
       "font": "_fd_light_fonts",
       "fnt": "_fd_light_fonts",
@@ -3325,6 +3499,7 @@
       "ico": "_fd_images",
       "screenshot": "_fd_images",
       "screenshots": "_fd_images",
+      "svg": "_fd_images",
       "include": "_fd_include",
       "includes": "_fd_include",
       "incl": "_fd_include",
@@ -3363,6 +3538,7 @@
       "models": "_fd_model",
       ".models": "_fd_model",
       "mongodb": "_fd_mongodb",
+      "mongo": "_fd_mongodb",
       "nginx": "_fd_nginx",
       "conf.d": "_fd_nginx",
       "node_modules": "_fd_light_node",
@@ -3391,6 +3567,7 @@
       "routes": "_fd_route",
       "_route": "_fd_route",
       "_routes": "_fd_route",
+      "routers": "_fd_route",
       "sass": "_fd_light_sass",
       "scss": "_fd_light_sass",
       "_sass": "_fd_light_sass",
@@ -3491,6 +3668,7 @@
       "db": "_fd_db_open",
       "database": "_fd_db_open",
       "sql": "_fd_db_open",
+      "data": "_fd_db_open",
       "debian": "_fd_debian_open",
       "dist": "_fd_dist_open",
       "out": "_fd_dist_open",
@@ -3505,6 +3683,7 @@
       ".elasticbeanstalk": "_fd_elasticbeanstalk_open",
       ".ebextensions": "_fd_elasticbeanstalk_open",
       "flow": "_fd_flow_open",
+      "flow-typed": "_fd_flow_open",
       "fonts": "_fd_light_fonts_open",
       "font": "_fd_light_fonts_open",
       "fnt": "_fd_light_fonts_open",
@@ -3527,6 +3706,7 @@
       "ico": "_fd_images_open",
       "screenshot": "_fd_images_open",
       "screenshots": "_fd_images_open",
+      "svg": "_fd_images_open",
       "include": "_fd_include_open",
       "includes": "_fd_include_open",
       "incl": "_fd_include_open",
@@ -3565,6 +3745,7 @@
       "models": "_fd_model_open",
       ".models": "_fd_model_open",
       "mongodb": "_fd_mongodb_open",
+      "mongo": "_fd_mongodb_open",
       "nginx": "_fd_nginx_open",
       "conf.d": "_fd_nginx_open",
       "node_modules": "_fd_light_node_open",
@@ -3593,6 +3774,7 @@
       "routes": "_fd_route_open",
       "_route": "_fd_route_open",
       "_routes": "_fd_route_open",
+      "routers": "_fd_route_open",
       "sass": "_fd_light_sass_open",
       "scss": "_fd_light_sass_open",
       "_sass": "_fd_light_sass_open",
@@ -3671,6 +3853,12 @@
       "mam": "_f_access",
       "maq": "_f_access",
       "mdw": "_f_access",
+      "afdesign": "_f_affinitydesigner",
+      "affinitydesigner": "_f_affinitydesigner",
+      "afphoto": "_f_affinityphoto",
+      "affinityphoto": "_f_affinityphoto",
+      "afpub": "_f_affinitypublisher",
+      "affinitypublisher": "_f_affinitypublisher",
       "ai": "_f_ai",
       "ino": "_f_arduino",
       "pde": "_f_arduino",
@@ -3768,7 +3956,9 @@
       "xlsx": "_f_excel",
       "xlsm": "_f_excel",
       "ods": "_f_excel",
+      "fods": "_f_excel",
       "fbx": "_f_fbx",
+      "fla": "_f_light_fla",
       "swf": "_f_flash",
       "swc": "_f_flash",
       "js.flow": "_f_flow",
@@ -3862,6 +4052,7 @@
       "otm": "_f_outlook",
       "msg": "_f_outlook",
       "oft": "_f_outlook",
+      "ovpn": "_f_ovpn",
       "pkg": "_f_package",
       "patch": "_f_patch",
       "pcd": "_f_light_pcl",
@@ -3902,6 +4093,8 @@
       "ppam": "_f_powerpoint",
       "sldm": "_f_powerpoint",
       "sldx": "_f_powerpoint",
+      "psd1": "_f_powershell_psd",
+      "psm1": "_f_powershell_psm",
       "pro": "_f_prolog",
       "P": "_f_prolog",
       "pub": "_f_publisher",
@@ -3941,8 +4134,10 @@
       "tst": "_f_test",
       "test.js": "_f_light_testjs",
       "test.jsx": "_f_light_testjs",
+      "test.mjs": "_f_light_testjs",
       "spec.js": "_f_light_testjs",
       "spec.jsx": "_f_light_testjs",
+      "spec.mjs": "_f_light_testjs",
       "test.ts": "_f_testts",
       "test.tsx": "_f_testts",
       "spec.ts": "_f_testts",
@@ -3950,6 +4145,7 @@
       "texi": "_f_light_tex",
       "csv": "_f_text",
       "todo": "_f_light_todo",
+      "tt2": "_f_tt",
       "d.ts": "_f_typescriptdef",
       "vala": "_f_vala",
       "vapi": "_f_vapi",
@@ -3991,6 +4187,7 @@
       "wmv": "_f_video",
       "vsix": "_f_light_vsix",
       "wasm": "_f_wasm",
+      "webp": "_f_webp",
       "doc": "_f_word",
       "docx": "_f_word",
       "docm": "_f_word",
@@ -4001,6 +4198,7 @@
       "wxml": "_f_wxml",
       "wxss": "_f_wxss",
       "xcodeproj": "_f_xcode",
+      "xfl": "_f_light_xfl",
       "xib": "_f_xib",
       "xliff": "_f_xliff",
       "xlf": "_f_xliff",
@@ -4023,12 +4221,18 @@
       "appveyor.yml": "_f_appveyor",
       ".appveyor.yml": "_f_appveyor",
       "aurelia.json": "_f_aurelia",
+      "azure-pipelines.yml": "_f_azurepipelines",
       ".babelrc": "_f_light_babel",
       "babelrc.js": "_f_light_babel",
       ".babelrc.js": "_f_light_babel",
+      "babelrc.json": "_f_light_babel",
       "babel.config.js": "_f_light_babel",
       ".babelignore": "_f_light_babel",
       ".bzrignore": "_f_bazaar",
+      ".bazelrc": "_f_bazel",
+      "bazel.rc": "_f_bazel",
+      "bazel.bazelrc": "_f_bazel",
+      "bitbucket-pipelines.yml": "_f_bitbucketpipeline",
       ".bithoundrc": "_f_bithound",
       ".bowerrc": "_f_bower",
       "bower.json": "_f_bower",
@@ -4091,9 +4295,15 @@
       ".eslintrc.yml": "_f_eslint",
       "favicon.ico": "_f_favicon",
       ".firebaserc": "_f_firebase",
+      "firebase.json": "_f_light_firebasehosting",
       "firestore.rules": "_f_firestore",
       ".flooignore": "_f_floobits",
       ".flowconfig": "_f_flow",
+      ".flutter-plugins": "_f_flutter",
+      ".metadata": "_f_flutter",
+      "pubspec.lock": "_f_flutter_package",
+      "pubspec.yaml": "_f_flutter_package",
+      ".packages": "_f_flutter_package",
       ".fossaignore": "_f_fossa",
       "ignore-glob": "_f_fossil",
       "fuse.js": "_f_fusebox",
@@ -4102,9 +4312,14 @@
       ".gitignore": "_f_git",
       ".gitmodules": "_f_git",
       ".gitkeep": "_f_git",
+      ".mailmap": "_f_git",
       ".gitlab-ci.yml": "_f_gitlab",
       "glide.yml": "_f_glide",
+      "go.sum": "_f_go_package",
+      "go.mod": "_f_go_package",
       ".gqlconfig": "_f_graphql",
+      "gridsome.config.js": "_f_gridsome",
+      "gridsome.config.ts": "_f_gridsome",
       "gruntfile.js": "_f_grunt",
       "gruntfile.coffee": "_f_grunt",
       "gruntfile.ts": "_f_grunt",
@@ -4152,6 +4367,7 @@
       "licence.md": "_f_license",
       "licence.txt": "_f_license",
       "include.xml": "_f_lime",
+      ".lintstagedrc": "_f_lintstagedrc",
       "manifest": "_f_manifest",
       "manifest.bak": "_f_manifest_bak",
       "manifest.skip": "_f_manifest_skip",
@@ -4171,6 +4387,7 @@
       ".npmrc": "_f_npm",
       "package.json": "_f_npm",
       "package-lock.json": "_f_npm",
+      "npm-shrinkwrap.json": "_f_npm",
       "nuxt.config.js": "_f_nuxt",
       "nuxt.config.ts": "_f_nuxt",
       ".nycrc": "_f_nyc",
@@ -4190,6 +4407,8 @@
       "pipfile": "_f_pip",
       "pipfile.lock": "_f_pip",
       ".postcssrc": "_f_postcssconfig",
+      ".postcssrc.json": "_f_postcssconfig",
+      ".postcssrc.yml": "_f_postcssconfig",
       ".postcssrc.js": "_f_postcssconfig",
       "postcss.config.js": "_f_postcssconfig",
       ".prettierrc": "_f_light_prettier",
@@ -4214,7 +4433,17 @@
       "rakefile": "_f_rake",
       "robots.txt": "_f_robots",
       "rollup.config.js": "_f_rollup",
+      "rollup.config.coffee": "_f_rollup",
       "rollup.config.ts": "_f_rollup",
+      "rollup.config.common.js": "_f_rollup",
+      "rollup.config.common.coffee": "_f_rollup",
+      "rollup.config.common.ts": "_f_rollup",
+      "rollup.config.dev.js": "_f_rollup",
+      "rollup.config.dev.coffee": "_f_rollup",
+      "rollup.config.dev.ts": "_f_rollup",
+      "rollup.config.prod.js": "_f_rollup",
+      "rollup.config.prod.coffee": "_f_rollup",
+      "rollup.config.prod.ts": "_f_rollup",
       ".rspec": "_f_rspec",
       ".rubocop.yml": "_f_light_rubocop",
       ".rubocop_todo.yml": "_f_light_rubocop",
@@ -4238,6 +4467,12 @@
       ".svnignore": "_f_subversion",
       "package.pins": "_f_swift",
       "symfony.lock": "_f_light_symfony",
+      "tailwind.js": "_f_tailwind",
+      "tailwind.coffee": "_f_tailwind",
+      "tailwind.ts": "_f_tailwind",
+      "tailwind.config.js": "_f_tailwind",
+      "tailwind.config.coffee": "_f_tailwind",
+      "tailwind.config.ts": "_f_tailwind",
       ".tfignore": "_f_tfs",
       ".travis.yml": "_f_travis",
       "tsconfig.json": "_f_tsconfig",
@@ -4359,6 +4594,8 @@
       "webpack.test.conf.ts": "_f_webpack",
       "wercker.yml": "_f_wercker",
       ".yamllint": "_f_yamllint",
+      ".yaspellerrc": "_f_yandex",
+      ".yaspeller.json": "_f_yandex",
       "yarn.lock": "_f_yarn",
       ".yarnrc": "_f_yarn",
       ".yarnclean": "_f_yarn",
@@ -4384,6 +4621,8 @@
       "ahk": "_f_autohotkey",
       "autoit": "_f_autoit",
       "avro": "_f_avro",
+      "azcli": "_f_azure",
+      "azure-pipelines": "_f_azurepipelines",
       "bat": "_f_bat",
       "bazel": "_f_bazel",
       "blade": "_f_blade",
@@ -4392,6 +4631,7 @@
       "c": "_f_c",
       "c-al": "_f_c_al",
       "cabal": "_f_cabal",
+      "caddyfile": "_f_caddy",
       "cfml": "_f_cf",
       "lang-cfml": "_f_cf",
       "cfc": "_f_cfc",
@@ -4434,6 +4674,7 @@
       "elm": "_f_elm",
       "erb": "_f_erb",
       "erlang": "_f_erlang",
+      "falcon": "_f_falcon",
       "fortran": "_f_fortran",
       "fortran-modern": "_f_fortran",
       "ftl": "_f_freemarker",
@@ -4464,6 +4705,7 @@
       "html": "_f_html",
       "http": "_f_http",
       "ini": "_f_light_ini",
+      "ink": "_f_ink",
       "io": "_f_light_io",
       "iodine": "_f_iodine",
       "java": "_f_java",
@@ -4512,6 +4754,9 @@
       "ocamllex": "_f_ocaml",
       "menhir": "_f_ocaml",
       "openhab": "_f_light_openHAB",
+      "pddl": "_f_pddl",
+      "happenings": "_f_pddl_happenings",
+      "plan": "_f_pddl_plan",
       "perl": "_f_perl",
       "perl6": "_f_perl6",
       "pgsql": "_f_pgsql",
@@ -4538,9 +4783,11 @@
       "racket": "_f_racket",
       "raml": "_f_raml",
       "razor": "_f_razor",
+      "aspnetcorerazor": "_f_razor",
       "javascriptreact": "_f_reactjs",
       "typescriptreact": "_f_reactts",
       "reason": "_f_reason",
+      "red": "_f_red",
       "restructuredtext": "_f_rest",
       "riot": "_f_riot",
       "robot": "_f_robotframework",
@@ -4581,7 +4828,8 @@
       "doctex": "_f_light_tex",
       "plaintext": "_f_text",
       "textile": "_f_textile",
-      "toml": "_f_toml",
+      "toml": "_f_light_toml",
+      "tt": "_f_tt",
       "twig": "_f_twig",
       "typescript": "_f_typescript",
       "typoscript": "_f_typo3",
