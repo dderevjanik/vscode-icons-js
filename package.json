@@ -5,7 +5,7 @@
   "main": "dist/Index.js",
   "typings": "dist/Index.d.ts",
   "scripts": {
-    "test": "jasmine-ts test/**/*.test.ts",
+    "test": "ts-node ./node_modules/jasmine/bin/jasmine.js test/**/*.test.ts",
     "test:scripts": "npm run script:extract-data-from-vsi && npm run script:create-icons-data",
     "script:extract-data-from-vsi": "ts-node ./scripts/extract-data-from-vsi.script.ts",
     "script:create-icons-data": "ts-node ./scripts/create-icons-data.script.ts",
@@ -35,17 +35,16 @@
   },
   "homepage": "https://github.com/dderevjanik/vscode-icons-js#readme",
   "devDependencies": {
-    "@types/node": "^10.3.1",
-    "@types/node-fetch": "^2.1.1",
-    "jasmine": "^3.1.0",
-    "jasmine-ts": "^0.2.1",
-    "log4js": "^3.0.4",
-    "node-fetch": "^2.1.2",
-    "prettier": "^1.13.4",
-    "ts-node": "^6.1.0",
-    "typescript": "^3.0.1"
+    "@types/node": "^10.12.24",
+    "@types/node-fetch": "^2.1.6",
+    "jasmine": "^3.3.1",
+    "log4js": "^4.0.2",
+    "node-fetch": "^2.3.0",
+    "prettier": "^1.16.4",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
   },
   "dependencies": {
-    "@types/jasmine": "^2.8.8"
+    "@types/jasmine": "^3.3.8"
   }
 }
