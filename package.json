@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/dderevjanik/vscode-icons-js#readme",
   "devDependencies": {
-    "@types/node": "^10.12.24",
+    "@types/node": "^11.11.5",
     "@types/node-fetch": "^2.1.6",
     "jasmine": "^3.3.1",
     "log4js": "^4.0.2",
