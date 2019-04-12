@@ -45,7 +45,10 @@
     "defaultExtension": "azcli"
   },
   "ids": {
-    "defaultExtension": "azure-pipelines"
+    "defaultExtension": "fortran_fixed-form"
+  },
+  "ballerina": {
+    "defaultExtension": "bal"
   },
   "bat": {
     "defaultExtension": "bat"
@@ -98,6 +101,9 @@
   "coldfusion": {
     "defaultExtension": "cfml"
   },
+  "cookbook": {
+    "defaultExtension": "ckbk"
+  },
   "cpp": {
     "defaultExtension": "cpp"
   },
@@ -140,6 +146,9 @@
   "dotenv": {
     "defaultExtension": "env"
   },
+  "dotjs": {
+    "defaultExtension": "dot"
+  },
   "doxygen": {
     "defaultExtension": "dox"
   },
@@ -175,9 +184,6 @@
   },
   "falcon": {
     "defaultExtension": "falcon"
-  },
-  "fortran": {
-    "defaultExtension": "f"
   },
   "freemarker": {
     "defaultExtension": "ftl"
@@ -236,6 +242,9 @@
   "helm": {
     "defaultExtension": "helm.tpl"
   },
+  "hjson": {
+    "defaultExtension": "hjson"
+  },
   "hlsl": {
     "defaultExtension": "hlsl"
   },
@@ -247,6 +256,12 @@
   },
   "http": {
     "defaultExtension": "http"
+  },
+  "icl": {
+    "defaultExtension": "icl"
+  },
+  "imba": {
+    "defaultExtension": "imba"
   },
   "ini": {
     "defaultExtension": "ini"
@@ -353,6 +368,9 @@
   "mojolicious": {
     "defaultExtension": "ep"
   },
+  "mongo": {
+    "defaultExtension": "mongo"
+  },
   "mson": {
     "defaultExtension": "mson"
   },
@@ -404,6 +422,9 @@
   "php": {
     "defaultExtension": "php"
   },
+  "pip": {
+    "defaultExtension": "requirements.txt"
+  },
   "plaintext": {
     "defaultExtension": "txt"
   },
@@ -412,6 +433,9 @@
   },
   "polymer": {
     "defaultExtension": "polymer"
+  },
+  "pony": {
+    "defaultExtension": "pony"
   },
   "postcss": {
     "defaultExtension": "pcss"
@@ -452,6 +476,9 @@
   "qlik": {
     "defaultExtension": "qvs"
   },
+  "qml": {
+    "defaultExtension": "qml"
+  },
   "qsharp": {
     "defaultExtension": "qs"
   },
@@ -487,6 +514,9 @@
   },
   "rust": {
     "defaultExtension": "rs"
+  },
+  "san": {
+    "defaultExtension": "san"
   },
   "sbt": {
     "defaultExtension": "sbt"
@@ -569,6 +599,9 @@
   "templatetoolkit": {
     "defaultExtension": "tt3"
   },
+  "tera": {
+    "defaultExtension": "tera"
+  },
   "terraform": {
     "defaultExtension": "tf"
   },
@@ -586,6 +619,9 @@
   },
   "toml": {
     "defaultExtension": "toml"
+  },
+  "ttcn": {
+    "defaultExtension": "ttcn3"
   },
   "twig": {
     "defaultExtension": "twig"
