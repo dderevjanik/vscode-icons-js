@@ -78,11 +78,23 @@
     "_fd_aws_open": {
       "iconPath": "../../icons/folder_type_aws_opened.svg"
     },
+    "_fd_azurepipelines": {
+      "iconPath": "../../icons/folder_type_azurepipelines.svg"
+    },
+    "_fd_azurepipelines_open": {
+      "iconPath": "../../icons/folder_type_azurepipelines_opened.svg"
+    },
     "_fd_binary": {
       "iconPath": "../../icons/folder_type_binary.svg"
     },
     "_fd_binary_open": {
       "iconPath": "../../icons/folder_type_binary_opened.svg"
+    },
+    "_fd_blueprint": {
+      "iconPath": "../../icons/folder_type_blueprint.svg"
+    },
+    "_fd_blueprint_open": {
+      "iconPath": "../../icons/folder_type_blueprint_opened.svg"
     },
     "_fd_bower": {
       "iconPath": "../../icons/folder_type_bower.svg"
@@ -90,11 +102,23 @@
     "_fd_bower_open": {
       "iconPath": "../../icons/folder_type_bower_opened.svg"
     },
+    "_fd_buildkite": {
+      "iconPath": "../../icons/folder_type_buildkite.svg"
+    },
+    "_fd_buildkite_open": {
+      "iconPath": "../../icons/folder_type_buildkite_opened.svg"
+    },
     "_fd_cake": {
       "iconPath": "../../icons/folder_type_cake.svg"
     },
     "_fd_cake_open": {
       "iconPath": "../../icons/folder_type_cake_opened.svg"
+    },
+    "_fd_certificate": {
+      "iconPath": "../../icons/folder_type_certificate.svg"
+    },
+    "_fd_certificate_open": {
+      "iconPath": "../../icons/folder_type_certificate_opened.svg"
     },
     "_fd_chef": {
       "iconPath": "../../icons/folder_type_chef.svg"
@@ -108,11 +132,23 @@
     "_fd_circleci_open": {
       "iconPath": "../../icons/folder_type_circleci_opened.svg"
     },
+    "_fd_cli": {
+      "iconPath": "../../icons/folder_type_cli.svg"
+    },
+    "_fd_cli_open": {
+      "iconPath": "../../icons/folder_type_cli_opened.svg"
+    },
     "_fd_client": {
       "iconPath": "../../icons/folder_type_client.svg"
     },
     "_fd_client_open": {
       "iconPath": "../../icons/folder_type_client_opened.svg"
+    },
+    "_fd_cmake": {
+      "iconPath": "../../icons/folder_type_cmake.svg"
+    },
+    "_fd_cmake_open": {
+      "iconPath": "../../icons/folder_type_cmake_opened.svg"
     },
     "_fd_component": {
       "iconPath": "../../icons/folder_type_component.svg"
@@ -131,6 +167,18 @@
     },
     "_fd_config_open": {
       "iconPath": "../../icons/folder_type_config_opened.svg"
+    },
+    "_fd_controller": {
+      "iconPath": "../../icons/folder_type_controller.svg"
+    },
+    "_fd_controller_open": {
+      "iconPath": "../../icons/folder_type_controller_opened.svg"
+    },
+    "_fd_coverage": {
+      "iconPath": "../../icons/folder_type_coverage.svg"
+    },
+    "_fd_coverage_open": {
+      "iconPath": "../../icons/folder_type_coverage_opened.svg"
     },
     "_fd_css": {
       "iconPath": "../../icons/folder_type_css.svg"
@@ -180,6 +228,12 @@
     "_fd_elasticbeanstalk_open": {
       "iconPath": "../../icons/folder_type_elasticbeanstalk_opened.svg"
     },
+    "_fd_electron": {
+      "iconPath": "../../icons/folder_type_electron.svg"
+    },
+    "_fd_electron_open": {
+      "iconPath": "../../icons/folder_type_electron_opened.svg"
+    },
     "_fd_flow": {
       "iconPath": "../../icons/folder_type_flow.svg"
     },
@@ -228,6 +282,18 @@
     "_fd_graphql_open": {
       "iconPath": "../../icons/folder_type_graphql_opened.svg"
     },
+    "_fd_grunt": {
+      "iconPath": "../../icons/folder_type_grunt.svg"
+    },
+    "_fd_grunt_open": {
+      "iconPath": "../../icons/folder_type_grunt_opened.svg"
+    },
+    "_fd_gulp": {
+      "iconPath": "../../icons/folder_type_gulp.svg"
+    },
+    "_fd_gulp_open": {
+      "iconPath": "../../icons/folder_type_gulp_opened.svg"
+    },
     "_fd_haxelib": {
       "iconPath": "../../icons/folder_type_haxelib.svg"
     },
@@ -257,6 +323,12 @@
     },
     "_fd_include_open": {
       "iconPath": "../../icons/folder_type_include_opened.svg"
+    },
+    "_fd_interfaces": {
+      "iconPath": "../../icons/folder_type_interfaces.svg"
+    },
+    "_fd_interfaces_open": {
+      "iconPath": "../../icons/folder_type_interfaces_opened.svg"
     },
     "_fd_ios": {
       "iconPath": "../../icons/folder_type_ios.svg"
@@ -288,6 +360,12 @@
     "_fd_library_open": {
       "iconPath": "../../icons/folder_type_library_opened.svg"
     },
+    "_fd_linux": {
+      "iconPath": "../../icons/folder_type_linux.svg"
+    },
+    "_fd_linux_open": {
+      "iconPath": "../../icons/folder_type_linux_opened.svg"
+    },
     "_fd_locale": {
       "iconPath": "../../icons/folder_type_locale.svg"
     },
@@ -299,6 +377,12 @@
     },
     "_fd_log_open": {
       "iconPath": "../../icons/folder_type_log_opened.svg"
+    },
+    "_fd_macos": {
+      "iconPath": "../../icons/folder_type_macos.svg"
+    },
+    "_fd_macos_open": {
+      "iconPath": "../../icons/folder_type_macos_opened.svg"
     },
     "_fd_mariadb": {
       "iconPath": "../../icons/folder_type_mariadb.svg"
@@ -324,17 +408,41 @@
     "_fd_light_meteor_open": {
       "iconPath": "../../icons/folder_type_light_meteor_opened.svg"
     },
+    "_fd_middleware": {
+      "iconPath": "../../icons/folder_type_middleware.svg"
+    },
+    "_fd_middleware_open": {
+      "iconPath": "../../icons/folder_type_middleware_opened.svg"
+    },
+    "_fd_minikube": {
+      "iconPath": "../../icons/folder_type_minikube.svg"
+    },
+    "_fd_minikube_open": {
+      "iconPath": "../../icons/folder_type_minikube_opened.svg"
+    },
     "_fd_mjml": {
       "iconPath": "../../icons/folder_type_mjml.svg"
     },
     "_fd_mjml_open": {
       "iconPath": "../../icons/folder_type_mjml_opened.svg"
     },
+    "_fd_mock": {
+      "iconPath": "../../icons/folder_type_mock.svg"
+    },
+    "_fd_mock_open": {
+      "iconPath": "../../icons/folder_type_mock_opened.svg"
+    },
     "_fd_model": {
       "iconPath": "../../icons/folder_type_model.svg"
     },
     "_fd_model_open": {
       "iconPath": "../../icons/folder_type_model_opened.svg"
+    },
+    "_fd_module": {
+      "iconPath": "../../icons/folder_type_module.svg"
+    },
+    "_fd_module_open": {
+      "iconPath": "../../icons/folder_type_module_opened.svg"
     },
     "_fd_mongodb": {
       "iconPath": "../../icons/folder_type_mongodb.svg"
@@ -365,6 +473,12 @@
     },
     "_fd_light_node_open": {
       "iconPath": "../../icons/folder_type_light_node_opened.svg"
+    },
+    "_fd_notification": {
+      "iconPath": "../../icons/folder_type_notification.svg"
+    },
+    "_fd_notification_open": {
+      "iconPath": "../../icons/folder_type_notification_opened.svg"
     },
     "_fd_nuget": {
       "iconPath": "../../icons/folder_type_nuget.svg"
@@ -456,11 +570,23 @@
     "_fd_server_open": {
       "iconPath": "../../icons/folder_type_server_opened.svg"
     },
+    "_fd_services": {
+      "iconPath": "../../icons/folder_type_services.svg"
+    },
+    "_fd_services_open": {
+      "iconPath": "../../icons/folder_type_services_opened.svg"
+    },
     "_fd_src": {
       "iconPath": "../../icons/folder_type_src.svg"
     },
     "_fd_src_open": {
       "iconPath": "../../icons/folder_type_src_opened.svg"
+    },
+    "_fd_story": {
+      "iconPath": "../../icons/folder_type_story.svg"
+    },
+    "_fd_story_open": {
+      "iconPath": "../../icons/folder_type_story_opened.svg"
     },
     "_fd_style": {
       "iconPath": "../../icons/folder_type_style.svg"
@@ -485,6 +611,12 @@
     },
     "_fd_test_open": {
       "iconPath": "../../icons/folder_type_test_opened.svg"
+    },
+    "_fd_theme": {
+      "iconPath": "../../icons/folder_type_theme.svg"
+    },
+    "_fd_theme_open": {
+      "iconPath": "../../icons/folder_type_theme_opened.svg"
     },
     "_fd_tools": {
       "iconPath": "../../icons/folder_type_tools.svg"
@@ -552,6 +684,12 @@
     "_fd_webpack_open": {
       "iconPath": "../../icons/folder_type_webpack_opened.svg"
     },
+    "_fd_windows": {
+      "iconPath": "../../icons/folder_type_windows.svg"
+    },
+    "_fd_windows_open": {
+      "iconPath": "../../icons/folder_type_windows_opened.svg"
+    },
     "_fd_www": {
       "iconPath": "../../icons/folder_type_www.svg"
     },
@@ -599,6 +737,12 @@
     },
     "_f_apib": {
       "iconPath": "../../icons/file_type_apib.svg"
+    },
+    "_f_apl": {
+      "iconPath": "../../icons/file_type_apl.svg"
+    },
+    "_f_light_apl": {
+      "iconPath": "../../icons/file_type_light_apl.svg"
     },
     "_f_applescript": {
       "iconPath": "../../icons/file_type_applescript.svg"
@@ -830,6 +974,9 @@
     },
     "_f_cucumber": {
       "iconPath": "../../icons/file_type_cucumber.svg"
+    },
+    "_f_cuda": {
+      "iconPath": "../../icons/file_type_cuda.svg"
     },
     "_f_cvs": {
       "iconPath": "../../icons/file_type_cvs.svg"
@@ -1248,6 +1395,9 @@
     "_f_jsp": {
       "iconPath": "../../icons/file_type_jsp.svg"
     },
+    "_f_jss": {
+      "iconPath": "../../icons/file_type_jss.svg"
+    },
     "_f_julia": {
       "iconPath": "../../icons/file_type_julia.svg"
     },
@@ -1397,6 +1547,9 @@
     },
     "_f_mojolicious": {
       "iconPath": "../../icons/file_type_mojolicious.svg"
+    },
+    "_f_moleculer": {
+      "iconPath": "../../icons/file_type_moleculer.svg"
     },
     "_f_mongo": {
       "iconPath": "../../icons/file_type_mongo.svg"
@@ -1749,6 +1902,9 @@
     "_f_sdlang": {
       "iconPath": "../../icons/file_type_sdlang.svg"
     },
+    "_f_sentry": {
+      "iconPath": "../../icons/file_type_sentry.svg"
+    },
     "_f_sequelize": {
       "iconPath": "../../icons/file_type_sequelize.svg"
     },
@@ -2025,6 +2181,12 @@
     "_f_light_vsix": {
       "iconPath": "../../icons/file_type_light_vsix.svg"
     },
+    "_f_vsixmanifest": {
+      "iconPath": "../../icons/file_type_vsixmanifest.svg"
+    },
+    "_f_light_vsixmanifest": {
+      "iconPath": "../../icons/file_type_light_vsixmanifest.svg"
+    },
     "_f_vue": {
       "iconPath": "../../icons/file_type_vue.svg"
     },
@@ -2129,30 +2291,65 @@
     ".audio": "_fd_audio",
     "audios": "_fd_audio",
     ".audios": "_fd_audio",
+    "sound": "_fd_audio",
+    ".sound": "_fd_audio",
+    "sounds": "_fd_audio",
+    ".sounds": "_fd_audio",
     "aurelia_project": "_fd_aurelia",
     "aws": "_fd_aws",
     ".aws": "_fd_aws",
+    "azure-pipelines": "_fd_azurepipelines",
+    ".azure-pipelines": "_fd_azurepipelines",
     "bin": "_fd_binary",
     ".bin": "_fd_binary",
+    "blueprint": "_fd_blueprint",
+    ".blueprint": "_fd_blueprint",
+    "blueprints": "_fd_blueprint",
+    ".blueprints": "_fd_blueprint",
     "bower_components": "_fd_bower",
+    ".buildkite": "_fd_buildkite",
     "cake": "_fd_cake",
     ".cake": "_fd_cake",
+    "certificates": "_fd_certificate",
+    ".certificates": "_fd_certificate",
+    "certs": "_fd_certificate",
+    "certs.": "_fd_certificate",
     "chef": "_fd_chef",
     ".chef": "_fd_chef",
     ".circleci": "_fd_circleci",
+    "cli": "_fd_cli",
+    "command": "_fd_cli",
+    "commands": "_fd_cli",
+    "commandline": "_fd_cli",
+    "console": "_fd_cli",
     "client": "_fd_client",
+    ".cmake": "_fd_cmake",
+    "cmake": "_fd_cmake",
     "components": "_fd_component",
     ".components": "_fd_component",
     "composer": "_fd_composer",
     ".composer": "_fd_composer",
     "config": "_fd_config",
-    "configs": "_fd_config",
-    "configuration": "_fd_config",
     ".config": "_fd_config",
+    "configs": "_fd_config",
+    ".configs": "_fd_config",
+    "configuration": "_fd_config",
+    ".configuration": "_fd_config",
+    "configurations": "_fd_config",
+    ".configurations": "_fd_config",
+    "setting": "_fd_config",
+    ".setting": "_fd_config",
+    "settings": "_fd_config",
+    ".settings": "_fd_config",
     "ini": "_fd_config",
     ".ini": "_fd_config",
     "initializers": "_fd_config",
     ".initializers": "_fd_config",
+    "controllers": "_fd_controller",
+    ".controllers": "_fd_controller",
+    "handlers": "_fd_controller",
+    ".handlers": "_fd_controller",
+    "coverage": "_fd_coverage",
     "css": "_fd_css",
     "_css": "_fd_css",
     "cypress": "_fd_cypress",
@@ -2160,6 +2357,9 @@
     "database": "_fd_db",
     "sql": "_fd_db",
     "data": "_fd_db",
+    "repo": "_fd_db",
+    "repository": "_fd_db",
+    "repositories": "_fd_db",
     "debian": "_fd_debian",
     "dist": "_fd_dist",
     "out": "_fd_dist",
@@ -2173,6 +2373,7 @@
     "doc": "_fd_docs",
     ".elasticbeanstalk": "_fd_elasticbeanstalk",
     ".ebextensions": "_fd_elasticbeanstalk",
+    "electron": "_fd_electron",
     "flow": "_fd_flow",
     "flow-typed": "_fd_flow",
     "fonts": "_fd_fonts",
@@ -2186,6 +2387,14 @@
     ".github": "_fd_github",
     ".gitlab": "_fd_gitlab",
     "graphql": "_fd_graphql",
+    "grunt": "_fd_grunt",
+    "gulp": "_fd_gulp",
+    "gulpfile.js": "_fd_gulp",
+    "gulpfile.coffee": "_fd_gulp",
+    "gulpfile.ts": "_fd_gulp",
+    "gulpfile.babel.js": "_fd_gulp",
+    "gulpfile.babel.coffee": "_fd_gulp",
+    "gulpfile.babel.ts": "_fd_gulp",
     "haxelib": "_fd_haxelib",
     "helpers": "_fd_helper",
     ".helpers": "_fd_helper",
@@ -2208,6 +2417,7 @@
     "_include": "_fd_include",
     "_includes": "_fd_include",
     "_incl": "_fd_include",
+    "interfaces": "_fd_interfaces",
     "ios": "_fd_ios",
     "js": "_fd_js",
     "kubernetes": "_fd_kubernetes",
@@ -2219,11 +2429,14 @@
     "lib": "_fd_library",
     ".lib": "_fd_library",
     "library": "_fd_library",
+    "linux": "_fd_linux",
     "lang": "_fd_locale",
     "language": "_fd_locale",
     "languages": "_fd_locale",
     "locale": "_fd_locale",
     "locales": "_fd_locale",
+    "_locale": "_fd_locale",
+    "_locales": "_fd_locale",
     "internationalization": "_fd_locale",
     "globalization": "_fd_locale",
     "localization": "_fd_locale",
@@ -2232,14 +2445,25 @@
     "l10n": "_fd_locale",
     "log": "_fd_log",
     "logs": "_fd_log",
+    "macos": "_fd_macos",
     "mariadb": "_fd_mariadb",
     "maria": "_fd_mariadb",
     ".mvn": "_fd_maven",
     ".meteor": "_fd_meteor",
+    "middleware": "_fd_middleware",
+    "minikube": "_fd_minikube",
+    "minik8s": "_fd_minikube",
+    "minikuber": "_fd_minikube",
     "mjml": "_fd_mjml",
     ".mjml": "_fd_mjml",
+    "mocks": "_fd_mock",
+    ".mocks": "_fd_mock",
+    "__mocks__": "_fd_mock",
     "models": "_fd_model",
     ".models": "_fd_model",
+    "entities": "_fd_model",
+    ".entities": "_fd_model",
+    "modules": "_fd_module",
     "mongodb": "_fd_mongodb",
     "mongo": "_fd_mongodb",
     "mysqldb": "_fd_mysql",
@@ -2247,6 +2471,8 @@
     "nginx": "_fd_nginx",
     "conf.d": "_fd_nginx",
     "node_modules": "_fd_node",
+    "notifications": "_fd_notification",
+    "events": "_fd_notification",
     ".nuget": "_fd_nuget",
     "package": "_fd_package",
     "packages": "_fd_package",
@@ -2281,9 +2507,12 @@
     "script": "_fd_script",
     "scripts": "_fd_script",
     "server": "_fd_server",
+    "services": "_fd_services",
     "src": "_fd_src",
     "source": "_fd_src",
     "sources": "_fd_src",
+    "stories": "_fd_story",
+    "__stories__": "_fd_story",
     "style": "_fd_style",
     "styles": "_fd_style",
     "temp": "_fd_temp",
@@ -2304,6 +2533,8 @@
     ".spec": "_fd_test",
     "specs": "_fd_test",
     ".specs": "_fd_test",
+    "theme": "_fd_theme",
+    "themes": "_fd_theme",
     "tools": "_fd_tools",
     ".tools": "_fd_tools",
     "util": "_fd_tools",
@@ -2324,14 +2555,19 @@
     "views": "_fd_view",
     "layout": "_fd_view",
     "layouts": "_fd_view",
+    "page": "_fd_view",
+    "pages": "_fd_view",
     "_view": "_fd_view",
     "_views": "_fd_view",
     "_layout": "_fd_view",
     "_layouts": "_fd_view",
+    "_page": "_fd_view",
+    "_pages": "_fd_view",
     ".vs": "_fd_vs",
     ".vscode": "_fd_vscode",
     ".vscode-test": "_fd_vscode_test",
     "webpack": "_fd_webpack",
+    "windows": "_fd_windows",
     "www": "_fd_www",
     "wwwroot": "_fd_www"
   },
@@ -2349,30 +2585,65 @@
     ".audio": "_fd_audio_open",
     "audios": "_fd_audio_open",
     ".audios": "_fd_audio_open",
+    "sound": "_fd_audio_open",
+    ".sound": "_fd_audio_open",
+    "sounds": "_fd_audio_open",
+    ".sounds": "_fd_audio_open",
     "aurelia_project": "_fd_aurelia_open",
     "aws": "_fd_aws_open",
     ".aws": "_fd_aws_open",
+    "azure-pipelines": "_fd_azurepipelines_open",
+    ".azure-pipelines": "_fd_azurepipelines_open",
     "bin": "_fd_binary_open",
     ".bin": "_fd_binary_open",
+    "blueprint": "_fd_blueprint_open",
+    ".blueprint": "_fd_blueprint_open",
+    "blueprints": "_fd_blueprint_open",
+    ".blueprints": "_fd_blueprint_open",
     "bower_components": "_fd_bower_open",
+    ".buildkite": "_fd_buildkite_open",
     "cake": "_fd_cake_open",
     ".cake": "_fd_cake_open",
+    "certificates": "_fd_certificate_open",
+    ".certificates": "_fd_certificate_open",
+    "certs": "_fd_certificate_open",
+    "certs.": "_fd_certificate_open",
     "chef": "_fd_chef_open",
     ".chef": "_fd_chef_open",
     ".circleci": "_fd_circleci_open",
+    "cli": "_fd_cli_open",
+    "command": "_fd_cli_open",
+    "commands": "_fd_cli_open",
+    "commandline": "_fd_cli_open",
+    "console": "_fd_cli_open",
     "client": "_fd_client_open",
+    ".cmake": "_fd_cmake_open",
+    "cmake": "_fd_cmake_open",
     "components": "_fd_component_open",
     ".components": "_fd_component_open",
     "composer": "_fd_composer_open",
     ".composer": "_fd_composer_open",
     "config": "_fd_config_open",
-    "configs": "_fd_config_open",
-    "configuration": "_fd_config_open",
     ".config": "_fd_config_open",
+    "configs": "_fd_config_open",
+    ".configs": "_fd_config_open",
+    "configuration": "_fd_config_open",
+    ".configuration": "_fd_config_open",
+    "configurations": "_fd_config_open",
+    ".configurations": "_fd_config_open",
+    "setting": "_fd_config_open",
+    ".setting": "_fd_config_open",
+    "settings": "_fd_config_open",
+    ".settings": "_fd_config_open",
     "ini": "_fd_config_open",
     ".ini": "_fd_config_open",
     "initializers": "_fd_config_open",
     ".initializers": "_fd_config_open",
+    "controllers": "_fd_controller_open",
+    ".controllers": "_fd_controller_open",
+    "handlers": "_fd_controller_open",
+    ".handlers": "_fd_controller_open",
+    "coverage": "_fd_coverage_open",
     "css": "_fd_css_open",
     "_css": "_fd_css_open",
     "cypress": "_fd_cypress_open",
@@ -2380,6 +2651,9 @@
     "database": "_fd_db_open",
     "sql": "_fd_db_open",
     "data": "_fd_db_open",
+    "repo": "_fd_db_open",
+    "repository": "_fd_db_open",
+    "repositories": "_fd_db_open",
     "debian": "_fd_debian_open",
     "dist": "_fd_dist_open",
     "out": "_fd_dist_open",
@@ -2393,6 +2667,7 @@
     "doc": "_fd_docs_open",
     ".elasticbeanstalk": "_fd_elasticbeanstalk_open",
     ".ebextensions": "_fd_elasticbeanstalk_open",
+    "electron": "_fd_electron_open",
     "flow": "_fd_flow_open",
     "flow-typed": "_fd_flow_open",
     "fonts": "_fd_fonts_open",
@@ -2406,6 +2681,14 @@
     ".github": "_fd_github_open",
     ".gitlab": "_fd_gitlab_open",
     "graphql": "_fd_graphql_open",
+    "grunt": "_fd_grunt_open",
+    "gulp": "_fd_gulp_open",
+    "gulpfile.js": "_fd_gulp_open",
+    "gulpfile.coffee": "_fd_gulp_open",
+    "gulpfile.ts": "_fd_gulp_open",
+    "gulpfile.babel.js": "_fd_gulp_open",
+    "gulpfile.babel.coffee": "_fd_gulp_open",
+    "gulpfile.babel.ts": "_fd_gulp_open",
     "haxelib": "_fd_haxelib_open",
     "helpers": "_fd_helper_open",
     ".helpers": "_fd_helper_open",
@@ -2428,6 +2711,7 @@
     "_include": "_fd_include_open",
     "_includes": "_fd_include_open",
     "_incl": "_fd_include_open",
+    "interfaces": "_fd_interfaces_open",
     "ios": "_fd_ios_open",
     "js": "_fd_js_open",
     "kubernetes": "_fd_kubernetes_open",
@@ -2439,11 +2723,14 @@
     "lib": "_fd_library_open",
     ".lib": "_fd_library_open",
     "library": "_fd_library_open",
+    "linux": "_fd_linux_open",
     "lang": "_fd_locale_open",
     "language": "_fd_locale_open",
     "languages": "_fd_locale_open",
     "locale": "_fd_locale_open",
     "locales": "_fd_locale_open",
+    "_locale": "_fd_locale_open",
+    "_locales": "_fd_locale_open",
     "internationalization": "_fd_locale_open",
     "globalization": "_fd_locale_open",
     "localization": "_fd_locale_open",
@@ -2452,14 +2739,25 @@
     "l10n": "_fd_locale_open",
     "log": "_fd_log_open",
     "logs": "_fd_log_open",
+    "macos": "_fd_macos_open",
     "mariadb": "_fd_mariadb_open",
     "maria": "_fd_mariadb_open",
     ".mvn": "_fd_maven_open",
     ".meteor": "_fd_meteor_open",
+    "middleware": "_fd_middleware_open",
+    "minikube": "_fd_minikube_open",
+    "minik8s": "_fd_minikube_open",
+    "minikuber": "_fd_minikube_open",
     "mjml": "_fd_mjml_open",
     ".mjml": "_fd_mjml_open",
+    "mocks": "_fd_mock_open",
+    ".mocks": "_fd_mock_open",
+    "__mocks__": "_fd_mock_open",
     "models": "_fd_model_open",
     ".models": "_fd_model_open",
+    "entities": "_fd_model_open",
+    ".entities": "_fd_model_open",
+    "modules": "_fd_module_open",
     "mongodb": "_fd_mongodb_open",
     "mongo": "_fd_mongodb_open",
     "mysqldb": "_fd_mysql_open",
@@ -2467,6 +2765,8 @@
     "nginx": "_fd_nginx_open",
     "conf.d": "_fd_nginx_open",
     "node_modules": "_fd_node_open",
+    "notifications": "_fd_notification_open",
+    "events": "_fd_notification_open",
     ".nuget": "_fd_nuget_open",
     "package": "_fd_package_open",
     "packages": "_fd_package_open",
@@ -2501,9 +2801,12 @@
     "script": "_fd_script_open",
     "scripts": "_fd_script_open",
     "server": "_fd_server_open",
+    "services": "_fd_services_open",
     "src": "_fd_src_open",
     "source": "_fd_src_open",
     "sources": "_fd_src_open",
+    "stories": "_fd_story_open",
+    "__stories__": "_fd_story_open",
     "style": "_fd_style_open",
     "styles": "_fd_style_open",
     "temp": "_fd_temp_open",
@@ -2524,6 +2827,8 @@
     ".spec": "_fd_test_open",
     "specs": "_fd_test_open",
     ".specs": "_fd_test_open",
+    "theme": "_fd_theme_open",
+    "themes": "_fd_theme_open",
     "tools": "_fd_tools_open",
     ".tools": "_fd_tools_open",
     "util": "_fd_tools_open",
@@ -2544,14 +2849,19 @@
     "views": "_fd_view_open",
     "layout": "_fd_view_open",
     "layouts": "_fd_view_open",
+    "page": "_fd_view_open",
+    "pages": "_fd_view_open",
     "_view": "_fd_view_open",
     "_views": "_fd_view_open",
     "_layout": "_fd_view_open",
     "_layouts": "_fd_view_open",
+    "_page": "_fd_view_open",
+    "_pages": "_fd_view_open",
     ".vs": "_fd_vs_open",
     ".vscode": "_fd_vscode_open",
     ".vscode-test": "_fd_vscode_test_open",
     "webpack": "_fd_webpack_open",
+    "windows": "_fd_windows_open",
     "www": "_fd_www_open",
     "wwwroot": "_fd_www_open"
   },
@@ -2717,6 +3027,7 @@
     "jsonld": "_f_jsonld",
     "json-ld": "_f_jsonld",
     "jsp": "_f_jsp",
+    "jss": "_f_jss",
     "ipynb": "_f_jupyter",
     "key": "_f_key",
     "pem": "_f_key",
@@ -2907,6 +3218,7 @@
     "webm": "_f_video",
     "wmv": "_f_video",
     "vsix": "_f_vsix",
+    "vsixmanifest": "_f_vsixmanifest",
     "wasm": "_f_wasm",
     "webp": "_f_webp",
     "doc": "_f_word",
@@ -3125,6 +3437,9 @@
     ".mocharc.json": "_f_mocha",
     ".mocharc.yaml": "_f_mocha",
     ".mocharc.yml": "_f_mocha",
+    "moleculer.config.js": "_f_moleculer",
+    "moleculer.config.json": "_f_moleculer",
+    "moleculer.config.ts": "_f_moleculer",
     ".mtn-ignore": "_f_monotone",
     ".nest-cli.json": "_f_nestjs",
     "nest-cli.json": "_f_nestjs",
@@ -3201,6 +3516,7 @@
     ".rspec": "_f_rspec",
     ".rubocop.yml": "_f_rubocop",
     ".rubocop_todo.yml": "_f_rubocop",
+    ".sentryclirc": "_f_sentry",
     ".sequelizerc": "_f_sequelize",
     "serverless.yml": "_f_serverless",
     "snapcraft.yaml": "_f_snapcraft",
@@ -3376,6 +3692,7 @@
     "apacheconf": "_f_apache",
     "apex": "_f_apex",
     "apiblueprint": "_f_apib",
+    "apl": "_f_apl",
     "applescript": "_f_applescript",
     "asp": "_f_asp",
     "asp (html)": "_f_asp",
@@ -3413,6 +3730,7 @@
     "csharp": "_f_csharp",
     "css": "_f_css",
     "feature": "_f_cucumber",
+    "cuda": "_f_cuda",
     "cython": "_f_cython",
     "dal": "_f_dal",
     "dart": "_f_dartlang",
@@ -3650,30 +3968,65 @@
       ".audio": "_fd_audio",
       "audios": "_fd_audio",
       ".audios": "_fd_audio",
+      "sound": "_fd_audio",
+      ".sound": "_fd_audio",
+      "sounds": "_fd_audio",
+      ".sounds": "_fd_audio",
       "aurelia_project": "_fd_aurelia",
       "aws": "_fd_aws",
       ".aws": "_fd_aws",
+      "azure-pipelines": "_fd_azurepipelines",
+      ".azure-pipelines": "_fd_azurepipelines",
       "bin": "_fd_binary",
       ".bin": "_fd_binary",
+      "blueprint": "_fd_blueprint",
+      ".blueprint": "_fd_blueprint",
+      "blueprints": "_fd_blueprint",
+      ".blueprints": "_fd_blueprint",
       "bower_components": "_fd_bower",
+      ".buildkite": "_fd_buildkite",
       "cake": "_fd_cake",
       ".cake": "_fd_cake",
+      "certificates": "_fd_certificate",
+      ".certificates": "_fd_certificate",
+      "certs": "_fd_certificate",
+      "certs.": "_fd_certificate",
       "chef": "_fd_chef",
       ".chef": "_fd_chef",
       ".circleci": "_fd_circleci",
+      "cli": "_fd_cli",
+      "command": "_fd_cli",
+      "commands": "_fd_cli",
+      "commandline": "_fd_cli",
+      "console": "_fd_cli",
       "client": "_fd_client",
+      ".cmake": "_fd_cmake",
+      "cmake": "_fd_cmake",
       "components": "_fd_component",
       ".components": "_fd_component",
       "composer": "_fd_composer",
       ".composer": "_fd_composer",
       "config": "_fd_config",
-      "configs": "_fd_config",
-      "configuration": "_fd_config",
       ".config": "_fd_config",
+      "configs": "_fd_config",
+      ".configs": "_fd_config",
+      "configuration": "_fd_config",
+      ".configuration": "_fd_config",
+      "configurations": "_fd_config",
+      ".configurations": "_fd_config",
+      "setting": "_fd_config",
+      ".setting": "_fd_config",
+      "settings": "_fd_config",
+      ".settings": "_fd_config",
       "ini": "_fd_config",
       ".ini": "_fd_config",
       "initializers": "_fd_config",
       ".initializers": "_fd_config",
+      "controllers": "_fd_controller",
+      ".controllers": "_fd_controller",
+      "handlers": "_fd_controller",
+      ".handlers": "_fd_controller",
+      "coverage": "_fd_coverage",
       "css": "_fd_css",
       "_css": "_fd_css",
       "cypress": "_fd_cypress",
@@ -3681,6 +4034,9 @@
       "database": "_fd_db",
       "sql": "_fd_db",
       "data": "_fd_db",
+      "repo": "_fd_db",
+      "repository": "_fd_db",
+      "repositories": "_fd_db",
       "debian": "_fd_debian",
       "dist": "_fd_dist",
       "out": "_fd_dist",
@@ -3694,6 +4050,7 @@
       "doc": "_fd_docs",
       ".elasticbeanstalk": "_fd_elasticbeanstalk",
       ".ebextensions": "_fd_elasticbeanstalk",
+      "electron": "_fd_electron",
       "flow": "_fd_flow",
       "flow-typed": "_fd_flow",
       "fonts": "_fd_light_fonts",
@@ -3707,6 +4064,14 @@
       ".github": "_fd_github",
       ".gitlab": "_fd_gitlab",
       "graphql": "_fd_graphql",
+      "grunt": "_fd_grunt",
+      "gulp": "_fd_gulp",
+      "gulpfile.js": "_fd_gulp",
+      "gulpfile.coffee": "_fd_gulp",
+      "gulpfile.ts": "_fd_gulp",
+      "gulpfile.babel.js": "_fd_gulp",
+      "gulpfile.babel.coffee": "_fd_gulp",
+      "gulpfile.babel.ts": "_fd_gulp",
       "haxelib": "_fd_haxelib",
       "helpers": "_fd_helper",
       ".helpers": "_fd_helper",
@@ -3729,6 +4094,7 @@
       "_include": "_fd_include",
       "_includes": "_fd_include",
       "_incl": "_fd_include",
+      "interfaces": "_fd_interfaces",
       "ios": "_fd_ios",
       "js": "_fd_js",
       "kubernetes": "_fd_kubernetes",
@@ -3740,11 +4106,14 @@
       "lib": "_fd_library",
       ".lib": "_fd_library",
       "library": "_fd_library",
+      "linux": "_fd_linux",
       "lang": "_fd_locale",
       "language": "_fd_locale",
       "languages": "_fd_locale",
       "locale": "_fd_locale",
       "locales": "_fd_locale",
+      "_locale": "_fd_locale",
+      "_locales": "_fd_locale",
       "internationalization": "_fd_locale",
       "globalization": "_fd_locale",
       "localization": "_fd_locale",
@@ -3753,14 +4122,25 @@
       "l10n": "_fd_locale",
       "log": "_fd_log",
       "logs": "_fd_log",
+      "macos": "_fd_macos",
       "mariadb": "_fd_mariadb",
       "maria": "_fd_mariadb",
       ".mvn": "_fd_maven",
       ".meteor": "_fd_light_meteor",
+      "middleware": "_fd_middleware",
+      "minikube": "_fd_minikube",
+      "minik8s": "_fd_minikube",
+      "minikuber": "_fd_minikube",
       "mjml": "_fd_mjml",
       ".mjml": "_fd_mjml",
+      "mocks": "_fd_mock",
+      ".mocks": "_fd_mock",
+      "__mocks__": "_fd_mock",
       "models": "_fd_model",
       ".models": "_fd_model",
+      "entities": "_fd_model",
+      ".entities": "_fd_model",
+      "modules": "_fd_module",
       "mongodb": "_fd_mongodb",
       "mongo": "_fd_mongodb",
       "mysqldb": "_fd_mysql",
@@ -3768,6 +4148,8 @@
       "nginx": "_fd_nginx",
       "conf.d": "_fd_nginx",
       "node_modules": "_fd_light_node",
+      "notifications": "_fd_notification",
+      "events": "_fd_notification",
       ".nuget": "_fd_nuget",
       "package": "_fd_package",
       "packages": "_fd_package",
@@ -3802,9 +4184,12 @@
       "script": "_fd_script",
       "scripts": "_fd_script",
       "server": "_fd_server",
+      "services": "_fd_services",
       "src": "_fd_src",
       "source": "_fd_src",
       "sources": "_fd_src",
+      "stories": "_fd_story",
+      "__stories__": "_fd_story",
       "style": "_fd_style",
       "styles": "_fd_style",
       "temp": "_fd_temp",
@@ -3825,6 +4210,8 @@
       ".spec": "_fd_test",
       "specs": "_fd_test",
       ".specs": "_fd_test",
+      "theme": "_fd_theme",
+      "themes": "_fd_theme",
       "tools": "_fd_tools",
       ".tools": "_fd_tools",
       "util": "_fd_tools",
@@ -3845,14 +4232,19 @@
       "views": "_fd_view",
       "layout": "_fd_view",
       "layouts": "_fd_view",
+      "page": "_fd_view",
+      "pages": "_fd_view",
       "_view": "_fd_view",
       "_views": "_fd_view",
       "_layout": "_fd_view",
       "_layouts": "_fd_view",
+      "_page": "_fd_view",
+      "_pages": "_fd_view",
       ".vs": "_fd_vs",
       ".vscode": "_fd_vscode",
       ".vscode-test": "_fd_vscode_test",
       "webpack": "_fd_webpack",
+      "windows": "_fd_windows",
       "www": "_fd_www",
       "wwwroot": "_fd_www"
     },
@@ -3870,30 +4262,65 @@
       ".audio": "_fd_audio_open",
       "audios": "_fd_audio_open",
       ".audios": "_fd_audio_open",
+      "sound": "_fd_audio_open",
+      ".sound": "_fd_audio_open",
+      "sounds": "_fd_audio_open",
+      ".sounds": "_fd_audio_open",
       "aurelia_project": "_fd_aurelia_open",
       "aws": "_fd_aws_open",
       ".aws": "_fd_aws_open",
+      "azure-pipelines": "_fd_azurepipelines_open",
+      ".azure-pipelines": "_fd_azurepipelines_open",
       "bin": "_fd_binary_open",
       ".bin": "_fd_binary_open",
+      "blueprint": "_fd_blueprint_open",
+      ".blueprint": "_fd_blueprint_open",
+      "blueprints": "_fd_blueprint_open",
+      ".blueprints": "_fd_blueprint_open",
       "bower_components": "_fd_bower_open",
+      ".buildkite": "_fd_buildkite_open",
       "cake": "_fd_cake_open",
       ".cake": "_fd_cake_open",
+      "certificates": "_fd_certificate_open",
+      ".certificates": "_fd_certificate_open",
+      "certs": "_fd_certificate_open",
+      "certs.": "_fd_certificate_open",
       "chef": "_fd_chef_open",
       ".chef": "_fd_chef_open",
       ".circleci": "_fd_circleci_open",
+      "cli": "_fd_cli_open",
+      "command": "_fd_cli_open",
+      "commands": "_fd_cli_open",
+      "commandline": "_fd_cli_open",
+      "console": "_fd_cli_open",
       "client": "_fd_client_open",
+      ".cmake": "_fd_cmake_open",
+      "cmake": "_fd_cmake_open",
       "components": "_fd_component_open",
       ".components": "_fd_component_open",
       "composer": "_fd_composer_open",
       ".composer": "_fd_composer_open",
       "config": "_fd_config_open",
-      "configs": "_fd_config_open",
-      "configuration": "_fd_config_open",
       ".config": "_fd_config_open",
+      "configs": "_fd_config_open",
+      ".configs": "_fd_config_open",
+      "configuration": "_fd_config_open",
+      ".configuration": "_fd_config_open",
+      "configurations": "_fd_config_open",
+      ".configurations": "_fd_config_open",
+      "setting": "_fd_config_open",
+      ".setting": "_fd_config_open",
+      "settings": "_fd_config_open",
+      ".settings": "_fd_config_open",
       "ini": "_fd_config_open",
       ".ini": "_fd_config_open",
       "initializers": "_fd_config_open",
       ".initializers": "_fd_config_open",
+      "controllers": "_fd_controller_open",
+      ".controllers": "_fd_controller_open",
+      "handlers": "_fd_controller_open",
+      ".handlers": "_fd_controller_open",
+      "coverage": "_fd_coverage_open",
       "css": "_fd_css_open",
       "_css": "_fd_css_open",
       "cypress": "_fd_cypress_open",
@@ -3901,6 +4328,9 @@
       "database": "_fd_db_open",
       "sql": "_fd_db_open",
       "data": "_fd_db_open",
+      "repo": "_fd_db_open",
+      "repository": "_fd_db_open",
+      "repositories": "_fd_db_open",
       "debian": "_fd_debian_open",
       "dist": "_fd_dist_open",
       "out": "_fd_dist_open",
@@ -3914,6 +4344,7 @@
       "doc": "_fd_docs_open",
       ".elasticbeanstalk": "_fd_elasticbeanstalk_open",
       ".ebextensions": "_fd_elasticbeanstalk_open",
+      "electron": "_fd_electron_open",
       "flow": "_fd_flow_open",
       "flow-typed": "_fd_flow_open",
       "fonts": "_fd_light_fonts_open",
@@ -3927,6 +4358,14 @@
       ".github": "_fd_github_open",
       ".gitlab": "_fd_gitlab_open",
       "graphql": "_fd_graphql_open",
+      "grunt": "_fd_grunt_open",
+      "gulp": "_fd_gulp_open",
+      "gulpfile.js": "_fd_gulp_open",
+      "gulpfile.coffee": "_fd_gulp_open",
+      "gulpfile.ts": "_fd_gulp_open",
+      "gulpfile.babel.js": "_fd_gulp_open",
+      "gulpfile.babel.coffee": "_fd_gulp_open",
+      "gulpfile.babel.ts": "_fd_gulp_open",
       "haxelib": "_fd_haxelib_open",
       "helpers": "_fd_helper_open",
       ".helpers": "_fd_helper_open",
@@ -3949,6 +4388,7 @@
       "_include": "_fd_include_open",
       "_includes": "_fd_include_open",
       "_incl": "_fd_include_open",
+      "interfaces": "_fd_interfaces_open",
       "ios": "_fd_ios_open",
       "js": "_fd_js_open",
       "kubernetes": "_fd_kubernetes_open",
@@ -3960,11 +4400,14 @@
       "lib": "_fd_library_open",
       ".lib": "_fd_library_open",
       "library": "_fd_library_open",
+      "linux": "_fd_linux_open",
       "lang": "_fd_locale_open",
       "language": "_fd_locale_open",
       "languages": "_fd_locale_open",
       "locale": "_fd_locale_open",
       "locales": "_fd_locale_open",
+      "_locale": "_fd_locale_open",
+      "_locales": "_fd_locale_open",
       "internationalization": "_fd_locale_open",
       "globalization": "_fd_locale_open",
       "localization": "_fd_locale_open",
@@ -3973,14 +4416,25 @@
       "l10n": "_fd_locale_open",
       "log": "_fd_log_open",
       "logs": "_fd_log_open",
+      "macos": "_fd_macos_open",
       "mariadb": "_fd_mariadb_open",
       "maria": "_fd_mariadb_open",
       ".mvn": "_fd_maven_open",
       ".meteor": "_fd_light_meteor_open",
+      "middleware": "_fd_middleware_open",
+      "minikube": "_fd_minikube_open",
+      "minik8s": "_fd_minikube_open",
+      "minikuber": "_fd_minikube_open",
       "mjml": "_fd_mjml_open",
       ".mjml": "_fd_mjml_open",
+      "mocks": "_fd_mock_open",
+      ".mocks": "_fd_mock_open",
+      "__mocks__": "_fd_mock_open",
       "models": "_fd_model_open",
       ".models": "_fd_model_open",
+      "entities": "_fd_model_open",
+      ".entities": "_fd_model_open",
+      "modules": "_fd_module_open",
       "mongodb": "_fd_mongodb_open",
       "mongo": "_fd_mongodb_open",
       "mysqldb": "_fd_mysql_open",
@@ -3988,6 +4442,8 @@
       "nginx": "_fd_nginx_open",
       "conf.d": "_fd_nginx_open",
       "node_modules": "_fd_light_node_open",
+      "notifications": "_fd_notification_open",
+      "events": "_fd_notification_open",
       ".nuget": "_fd_nuget_open",
       "package": "_fd_package_open",
       "packages": "_fd_package_open",
@@ -4022,9 +4478,12 @@
       "script": "_fd_script_open",
       "scripts": "_fd_script_open",
       "server": "_fd_server_open",
+      "services": "_fd_services_open",
       "src": "_fd_src_open",
       "source": "_fd_src_open",
       "sources": "_fd_src_open",
+      "stories": "_fd_story_open",
+      "__stories__": "_fd_story_open",
       "style": "_fd_style_open",
       "styles": "_fd_style_open",
       "temp": "_fd_temp_open",
@@ -4045,6 +4504,8 @@
       ".spec": "_fd_test_open",
       "specs": "_fd_test_open",
       ".specs": "_fd_test_open",
+      "theme": "_fd_theme_open",
+      "themes": "_fd_theme_open",
       "tools": "_fd_tools_open",
       ".tools": "_fd_tools_open",
       "util": "_fd_tools_open",
@@ -4065,14 +4526,19 @@
       "views": "_fd_view_open",
       "layout": "_fd_view_open",
       "layouts": "_fd_view_open",
+      "page": "_fd_view_open",
+      "pages": "_fd_view_open",
       "_view": "_fd_view_open",
       "_views": "_fd_view_open",
       "_layout": "_fd_view_open",
       "_layouts": "_fd_view_open",
+      "_page": "_fd_view_open",
+      "_pages": "_fd_view_open",
       ".vs": "_fd_vs_open",
       ".vscode": "_fd_vscode_open",
       ".vscode-test": "_fd_vscode_test_open",
       "webpack": "_fd_webpack_open",
+      "windows": "_fd_windows_open",
       "www": "_fd_www_open",
       "wwwroot": "_fd_www_open"
     },
@@ -4238,6 +4704,7 @@
       "jsonld": "_f_light_jsonld",
       "json-ld": "_f_light_jsonld",
       "jsp": "_f_jsp",
+      "jss": "_f_jss",
       "ipynb": "_f_jupyter",
       "key": "_f_key",
       "pem": "_f_key",
@@ -4428,6 +4895,7 @@
       "webm": "_f_video",
       "wmv": "_f_video",
       "vsix": "_f_light_vsix",
+      "vsixmanifest": "_f_light_vsixmanifest",
       "wasm": "_f_wasm",
       "webp": "_f_webp",
       "doc": "_f_word",
@@ -4646,6 +5114,9 @@
       ".mocharc.json": "_f_mocha",
       ".mocharc.yaml": "_f_mocha",
       ".mocharc.yml": "_f_mocha",
+      "moleculer.config.js": "_f_moleculer",
+      "moleculer.config.json": "_f_moleculer",
+      "moleculer.config.ts": "_f_moleculer",
       ".mtn-ignore": "_f_monotone",
       ".nest-cli.json": "_f_nestjs",
       "nest-cli.json": "_f_nestjs",
@@ -4722,6 +5193,7 @@
       ".rspec": "_f_rspec",
       ".rubocop.yml": "_f_light_rubocop",
       ".rubocop_todo.yml": "_f_light_rubocop",
+      ".sentryclirc": "_f_sentry",
       ".sequelizerc": "_f_sequelize",
       "serverless.yml": "_f_serverless",
       "snapcraft.yaml": "_f_snapcraft",
@@ -4897,6 +5369,7 @@
       "apacheconf": "_f_apache",
       "apex": "_f_apex",
       "apiblueprint": "_f_apib",
+      "apl": "_f_light_apl",
       "applescript": "_f_applescript",
       "asp": "_f_asp",
       "asp (html)": "_f_asp",
@@ -4934,6 +5407,7 @@
       "csharp": "_f_csharp",
       "css": "_f_css",
       "feature": "_f_cucumber",
+      "cuda": "_f_cuda",
       "cython": "_f_cython",
       "dal": "_f_dal",
       "dart": "_f_dartlang",

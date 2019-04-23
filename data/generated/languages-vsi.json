@@ -23,6 +23,9 @@
   "apib": {
     "defaultExtension": "apib"
   },
+  "apl": {
+    "defaultExtension": "apl"
+  },
   "applescript": {
     "defaultExtension": "applescript"
   },
@@ -118,6 +121,9 @@
   },
   "cucumber": {
     "defaultExtension": "feature"
+  },
+  "cuda": {
+    "defaultExtension": "cu"
   },
   "cython": {
     "defaultExtension": "pyx"
