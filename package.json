@@ -38,7 +38,7 @@
     "@types/node": "^10.12.24",
     "@types/node-fetch": "^2.1.6",
     "jasmine": "^3.3.1",
-    "log4js": "^4.0.2",
+    "log4js": "^5.0.0",
     "node-fetch": "^2.3.0",
     "prettier": "^1.16.4",
     "ts-node": "^8.0.2",
