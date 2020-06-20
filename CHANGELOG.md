@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 
+## [10.1.1] - 2020-06-20
+
+- Update vscode-icons to `10.1.1`
+
 ## [7.25.0] - 2018-08-02
 
 - Fixed issue [#12](https://github.com/dderevjanik/vscode-icons-js/issues/12)

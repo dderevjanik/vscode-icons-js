@@ -2,6 +2,15 @@
   "actionscript": {
     "defaultExtension": "as"
   },
+  "ada": {
+    "defaultExtension": "ada"
+  },
+  "advpl": {
+    "defaultExtension": "prw"
+  },
+  "affectscript": {
+    "defaultExtension": "affect"
+  },
   "al": {
     "defaultExtension": "al"
   },
@@ -29,11 +38,17 @@
   "applescript": {
     "defaultExtension": "applescript"
   },
+  "asciidoc": {
+    "defaultExtension": "adoc"
+  },
   "asp": {
     "defaultExtension": "asp"
   },
   "assembly": {
     "defaultExtension": "asm"
+  },
+  "ats": {
+    "defaultExtension": "ats"
   },
   "autohotkey": {
     "defaultExtension": "ahk"
@@ -48,7 +63,7 @@
     "defaultExtension": "azcli"
   },
   "ids": {
-    "defaultExtension": "fortran_fixed-form"
+    "defaultExtension": "jenkinsfile"
   },
   "ballerina": {
     "defaultExtension": "bal"
@@ -59,8 +74,14 @@
   "bazel": {
     "defaultExtension": "bzl"
   },
+  "befunge": {
+    "defaultExtension": "bf"
+  },
   "bibtex": {
     "defaultExtension": "bib"
+  },
+  "biml": {
+    "defaultExtension": "biml"
   },
   "blade": {
     "defaultExtension": "blade.php"
@@ -80,6 +101,9 @@
   "caddyfile": {
     "defaultExtension": "Caddyfile"
   },
+  "ceylon": {
+    "defaultExtension": "ceylon"
+  },
   "cfc": {
     "defaultExtension": "cfc"
   },
@@ -88,6 +112,12 @@
   },
   "clojure": {
     "defaultExtension": "clojure"
+  },
+  "clojurescript": {
+    "defaultExtension": "clojurescript"
+  },
+  "cloudfoundrymanifest": {
+    "defaultExtension": "yml"
   },
   "cmake": {
     "defaultExtension": "cmake"
@@ -103,6 +133,9 @@
   },
   "coldfusion": {
     "defaultExtension": "cfml"
+  },
+  "confluence": {
+    "defaultExtension": "confluence"
   },
   "cookbook": {
     "defaultExtension": "ckbk"
@@ -145,6 +178,9 @@
   },
   "dockerfile": {
     "defaultExtension": "dockerfile"
+  },
+  "dockerignore": {
+    "defaultExtension": "dockerignore"
   },
   "doctex": {
     "defaultExtension": "dtx"
@@ -209,11 +245,20 @@
   "gamemaker81": {
     "defaultExtension": "gml"
   },
+  "gcode": {
+    "defaultExtension": "gcode"
+  },
+  "genstat": {
+    "defaultExtension": "gen"
+  },
   "git": {
     "defaultExtension": "git"
   },
   "glsl": {
     "defaultExtension": "glsl"
+  },
+  "gnuplot": {
+    "defaultExtension": "gp"
   },
   "go": {
     "defaultExtension": "go"
@@ -254,6 +299,9 @@
   "hlsl": {
     "defaultExtension": "hlsl"
   },
+  "homeassistant": {
+    "defaultExtension": "yaml"
+  },
   "hosts": {
     "defaultExtension": "hosts"
   },
@@ -263,11 +311,17 @@
   "http": {
     "defaultExtension": "http"
   },
+  "hunspell": {
+    "defaultExtension": "aff"
+  },
   "icl": {
     "defaultExtension": "icl"
   },
   "imba": {
     "defaultExtension": "imba"
+  },
+  "informix": {
+    "defaultExtension": "4gl"
   },
   "ini": {
     "defaultExtension": "ini"
@@ -275,11 +329,14 @@
   "ink": {
     "defaultExtension": "ink"
   },
+  "innosetup": {
+    "defaultExtension": "iss"
+  },
   "io": {
     "defaultExtension": "io"
   },
-  "latex": {
-    "defaultExtension": "tex"
+  "janet": {
+    "defaultExtension": "janet"
   },
   "java": {
     "defaultExtension": "java"
@@ -293,9 +350,6 @@
   "jekyll": {
     "defaultExtension": "jekyll"
   },
-  "jenkins": {
-    "defaultExtension": "jenkins"
-  },
   "jinja": {
     "defaultExtension": "jinja"
   },
@@ -304,6 +358,9 @@
   },
   "jsonc": {
     "defaultExtension": "jsonc"
+  },
+  "jsonnet": {
+    "defaultExtension": "jsonnet"
   },
   "json5": {
     "defaultExtension": "json5"
@@ -323,8 +380,17 @@
   "kotlin": {
     "defaultExtension": "kt"
   },
+  "latex": {
+    "defaultExtension": "tex"
+  },
+  "latino": {
+    "defaultExtension": "lat"
+  },
   "less": {
     "defaultExtension": "less"
+  },
+  "lex": {
+    "defaultExtension": "flex"
   },
   "lisp": {
     "defaultExtension": "lisp"
@@ -380,8 +446,14 @@
   "mson": {
     "defaultExtension": "mson"
   },
+  "nearley": {
+    "defaultExtension": "ne"
+  },
   "nim": {
     "defaultExtension": "nim"
+  },
+  "nimble": {
+    "defaultExtension": "nimble"
   },
   "nsis": {
     "defaultExtension": "nsi"
@@ -428,6 +500,9 @@
   "php": {
     "defaultExtension": "php"
   },
+  "pine": {
+    "defaultExtension": "pine"
+  },
   "pip": {
     "defaultExtension": "requirements.txt"
   },
@@ -448,6 +523,9 @@
   },
   "powershell": {
     "defaultExtension": "ps1"
+  },
+  "prisma": {
+    "defaultExtension": "prisma"
   },
   "processinglang": {
     "defaultExtension": "pde"
@@ -509,6 +587,9 @@
   "restructuredtext": {
     "defaultExtension": "rst"
   },
+  "rexx": {
+    "defaultExtension": "rex"
+  },
   "riot": {
     "defaultExtension": "tag"
   },
@@ -523,6 +604,9 @@
   },
   "san": {
     "defaultExtension": "san"
+  },
+  "sas": {
+    "defaultExtension": "sas"
   },
   "sbt": {
     "defaultExtension": "sbt"
@@ -578,14 +662,29 @@
   "squirrel": {
     "defaultExtension": "nut"
   },
+  "stan": {
+    "defaultExtension": "stan"
+  },
   "stata": {
     "defaultExtension": "do"
+  },
+  "stencil": {
+    "defaultExtension": "stencil"
+  },
+  "stencilhtml": {
+    "defaultExtension": "html.stencil"
   },
   "stylable": {
     "defaultExtension": "st.css"
   },
+  "styled": {
+    "defaultExtension": "styled"
+  },
   "stylus": {
     "defaultExtension": "styl"
+  },
+  "svelte": {
+    "defaultExtension": "svelte"
   },
   "swagger": {
     "defaultExtension": "swagger"
@@ -595,6 +694,9 @@
   },
   "swig": {
     "defaultExtension": "swig"
+  },
+  "systemd": {
+    "defaultExtension": "link"
   },
   "systemverilog": {
     "defaultExtension": "sv"
@@ -662,6 +764,9 @@
   "viml": {
     "defaultExtension": "vim"
   },
+  "vlang": {
+    "defaultExtension": "v"
+  },
   "volt": {
     "defaultExtension": "volt"
   },
@@ -670,6 +775,9 @@
   },
   "wasm": {
     "defaultExtension": "wasm"
+  },
+  "wenyan": {
+    "defaultExtension": "wy"
   },
   "wolfram": {
     "defaultExtension": "wl"
@@ -683,13 +791,22 @@
   "xml": {
     "defaultExtension": "xml"
   },
+  "xquery": {
+    "defaultExtension": "xquery"
+  },
   "xsl": {
     "defaultExtension": "xsl"
+  },
+  "yacc": {
+    "defaultExtension": "bison"
   },
   "yaml": {
     "defaultExtension": "yaml"
   },
   "yang": {
     "defaultExtension": "yang"
+  },
+  "zig": {
+    "defaultExtension": "zig"
   }
 }
