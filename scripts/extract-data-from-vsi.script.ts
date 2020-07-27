@@ -36,5 +36,5 @@ fetch(LANG_URL, {})
         });
         const languagesJSON = JSON.stringify(languages, null, 2);
         writeFileSync('./data/generated/languages-vsi.json', languagesJSON);
-        log.info("sucesffullly downloaded and generated langauge definitions");
+        log.info("successfully downloaded and generated language definitions");
     });
