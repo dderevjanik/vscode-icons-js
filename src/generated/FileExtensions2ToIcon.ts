@@ -1,7 +1,10 @@
 export const FileExtensions2ToIcon: { [key: string]: string } = {
   'gemfile.lock': 'file_type_bundler.svg',
   'css.map': 'file_type_cssmap.svg',
+  'drawio.png': 'file_type_drawio.svg',
+  'drawio.svg': 'file_type_drawio.svg',
   'js.flow': 'file_type_flow.svg',
+  'ejs.t': 'file_type_hygen.svg',
   'js.snap': 'file_type_jest_snapshot.svg',
   'jsx.snap': 'file_type_jest_snapshot.svg',
   'ts.snap': 'file_type_jest_snapshot.svg',

@@ -71,6 +71,9 @@
   "bat": {
     "defaultExtension": "bat"
   },
+  "bats": {
+    "defaultExtension": "bats"
+  },
   "bazel": {
     "defaultExtension": "bzl"
   },
@@ -86,8 +89,14 @@
   "blade": {
     "defaultExtension": "blade.php"
   },
+  "blitzbasic": {
+    "defaultExtension": "blitzbasic"
+  },
   "bolt": {
     "defaultExtension": "bolt"
+  },
+  "bosque": {
+    "defaultExtension": "bsq"
   },
   "c": {
     "defaultExtension": "c"
@@ -100,6 +109,9 @@
   },
   "caddyfile": {
     "defaultExtension": "Caddyfile"
+  },
+  "cddl": {
+    "defaultExtension": "cddl"
   },
   "ceylon": {
     "defaultExtension": "ceylon"
@@ -197,11 +209,11 @@
   "drools": {
     "defaultExtension": "drl"
   },
-  "dylanlang": {
-    "defaultExtension": "dylan"
-  },
   "dustjs": {
     "defaultExtension": "dust"
+  },
+  "dylanlang": {
+    "defaultExtension": "dylan"
   },
   "edge": {
     "defaultExtension": "edge"
@@ -233,6 +245,9 @@
   "fsharp": {
     "defaultExtension": "fs"
   },
+  "fthtml": {
+    "defaultExtension": "fthtml"
+  },
   "galen": {
     "defaultExtension": "gspec"
   },
@@ -256,6 +271,9 @@
   },
   "glsl": {
     "defaultExtension": "glsl"
+  },
+  "glyphs": {
+    "defaultExtension": "glyphs"
   },
   "gnuplot": {
     "defaultExtension": "gp"
@@ -313,6 +331,9 @@
   },
   "hunspell": {
     "defaultExtension": "aff"
+  },
+  "hy": {
+    "defaultExtension": "hy"
   },
   "icl": {
     "defaultExtension": "icl"
@@ -379,6 +400,9 @@
   },
   "kotlin": {
     "defaultExtension": "kt"
+  },
+  "kusto": {
+    "defaultExtension": ".kusto"
   },
   "latex": {
     "defaultExtension": "tex"
@@ -454,6 +478,9 @@
   },
   "nimble": {
     "defaultExtension": "nimble"
+  },
+  "nix": {
+    "defaultExtension": "nix"
   },
   "nsis": {
     "defaultExtension": "nsi"
@@ -584,6 +611,9 @@
   "red": {
     "defaultExtension": "red"
   },
+  "rescript": {
+    "defaultExtension": "res"
+  },
   "restructuredtext": {
     "defaultExtension": "rst"
   },
@@ -592,6 +622,9 @@
   },
   "riot": {
     "defaultExtension": "tag"
+  },
+  "rmd": {
+    "defaultExtension": "rmd"
   },
   "robot": {
     "defaultExtension": "robot"
@@ -664,6 +697,9 @@
   },
   "stan": {
     "defaultExtension": "stan"
+  },
+  "starlark": {
+    "defaultExtension": "bazel"
   },
   "stata": {
     "defaultExtension": "do"
@@ -787,6 +823,9 @@
   },
   "wxml": {
     "defaultExtension": "wxml"
+  },
+  "xmake": {
+    "defaultExtension": "xmake.lua"
   },
   "xml": {
     "defaultExtension": "xml"

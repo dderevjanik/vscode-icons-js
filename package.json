@@ -1,6 +1,6 @@
 {
   "name": "vscode-icons-js",
-  "version": "10.1.1",
+  "version": "11.0.0",
   "description": "File specific icons from vscode vscode-icons extension",
   "main": "dist/Index.js",
   "typings": "dist/Index.d.ts",

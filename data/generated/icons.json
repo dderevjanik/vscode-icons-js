@@ -198,6 +198,12 @@
     "_fd_css_open": {
       "iconPath": "../../icons/folder_type_css_opened.svg"
     },
+    "_fd_cubit": {
+      "iconPath": "../../icons/folder_type_cubit.svg"
+    },
+    "_fd_cubit_open": {
+      "iconPath": "../../icons/folder_type_cubit_opened.svg"
+    },
     "_fd_cypress": {
       "iconPath": "../../icons/folder_type_cypress.svg"
     },
@@ -372,6 +378,12 @@
     "_fd_helper_open": {
       "iconPath": "../../icons/folder_type_helper_opened.svg"
     },
+    "_fd_hook": {
+      "iconPath": "../../icons/folder_type_hook.svg"
+    },
+    "_fd_hook_open": {
+      "iconPath": "../../icons/folder_type_hook_opened.svg"
+    },
     "_fd_idea": {
       "iconPath": "../../icons/folder_type_idea.svg"
     },
@@ -539,6 +551,12 @@
     },
     "_fd_light_mysql_open": {
       "iconPath": "../../icons/folder_type_light_mysql_opened.svg"
+    },
+    "_fd_next": {
+      "iconPath": "../../icons/folder_type_next.svg"
+    },
+    "_fd_next_open": {
+      "iconPath": "../../icons/folder_type_next_opened.svg"
     },
     "_fd_nginx": {
       "iconPath": "../../icons/folder_type_nginx.svg"
@@ -909,8 +927,14 @@
     "_f_autoit": {
       "iconPath": "../../icons/file_type_autoit.svg"
     },
+    "_f_avif": {
+      "iconPath": "../../icons/file_type_avif.svg"
+    },
     "_f_avro": {
       "iconPath": "../../icons/file_type_avro.svg"
+    },
+    "_f_awk": {
+      "iconPath": "../../icons/file_type_awk.svg"
     },
     "_f_aws": {
       "iconPath": "../../icons/file_type_aws.svg"
@@ -932,6 +956,9 @@
     },
     "_f_bat": {
       "iconPath": "../../icons/file_type_bat.svg"
+    },
+    "_f_bats": {
+      "iconPath": "../../icons/file_type_bats.svg"
     },
     "_f_bazaar": {
       "iconPath": "../../icons/file_type_bazaar.svg"
@@ -957,8 +984,14 @@
     "_f_blade": {
       "iconPath": "../../icons/file_type_blade.svg"
     },
+    "_f_blitzbasic": {
+      "iconPath": "../../icons/file_type_blitzbasic.svg"
+    },
     "_f_bolt": {
       "iconPath": "../../icons/file_type_bolt.svg"
+    },
+    "_f_bosque": {
+      "iconPath": "../../icons/file_type_bosque.svg"
     },
     "_f_bower": {
       "iconPath": "../../icons/file_type_bower.svg"
@@ -995,6 +1028,9 @@
     },
     "_f_cargo": {
       "iconPath": "../../icons/file_type_cargo.svg"
+    },
+    "_f_cddl": {
+      "iconPath": "../../icons/file_type_cddl.svg"
     },
     "_f_cert": {
       "iconPath": "../../icons/file_type_cert.svg"
@@ -1070,6 +1106,9 @@
     },
     "_f_coffeescript": {
       "iconPath": "../../icons/file_type_coffeescript.svg"
+    },
+    "_f_commitlint": {
+      "iconPath": "../../icons/file_type_commitlint.svg"
     },
     "_f_compass": {
       "iconPath": "../../icons/file_type_compass.svg"
@@ -1161,6 +1200,9 @@
     "_f_delphi": {
       "iconPath": "../../icons/file_type_delphi.svg"
     },
+    "_f_dependabot": {
+      "iconPath": "../../icons/file_type_dependabot.svg"
+    },
     "_f_dependencies": {
       "iconPath": "../../icons/file_type_dependencies.svg"
     },
@@ -1200,6 +1242,9 @@
     "_f_doxygen": {
       "iconPath": "../../icons/file_type_doxygen.svg"
     },
+    "_f_drawio": {
+      "iconPath": "../../icons/file_type_drawio.svg"
+    },
     "_f_drone": {
       "iconPath": "../../icons/file_type_drone.svg"
     },
@@ -1211,6 +1256,9 @@
     },
     "_f_dustjs": {
       "iconPath": "../../icons/file_type_dustjs.svg"
+    },
+    "_f_dvc": {
+      "iconPath": "../../icons/file_type_dvc.svg"
     },
     "_f_dylan": {
       "iconPath": "../../icons/file_type_dylan.svg"
@@ -1335,6 +1383,9 @@
     "_f_fsproj": {
       "iconPath": "../../icons/file_type_fsproj.svg"
     },
+    "_f_fthtml": {
+      "iconPath": "../../icons/file_type_fthtml.svg"
+    },
     "_f_fusebox": {
       "iconPath": "../../icons/file_type_fusebox.svg"
     },
@@ -1373,6 +1424,9 @@
     },
     "_f_glsl": {
       "iconPath": "../../icons/file_type_glsl.svg"
+    },
+    "_f_glyphs": {
+      "iconPath": "../../icons/file_type_glyphs.svg"
     },
     "_f_gnuplot": {
       "iconPath": "../../icons/file_type_gnuplot.svg"
@@ -1473,6 +1527,12 @@
     "_f_husky": {
       "iconPath": "../../icons/file_type_husky.svg"
     },
+    "_f_hy": {
+      "iconPath": "../../icons/file_type_hy.svg"
+    },
+    "_f_hygen": {
+      "iconPath": "../../icons/file_type_hygen.svg"
+    },
     "_f_icl": {
       "iconPath": "../../icons/file_type_icl.svg"
     },
@@ -1533,6 +1593,9 @@
     "_f_jar": {
       "iconPath": "../../icons/file_type_jar.svg"
     },
+    "_f_jasmine": {
+      "iconPath": "../../icons/file_type_jasmine.svg"
+    },
     "_f_java": {
       "iconPath": "../../icons/file_type_java.svg"
     },
@@ -1571,6 +1634,9 @@
     },
     "_f_light_jsconfig": {
       "iconPath": "../../icons/file_type_light_jsconfig.svg"
+    },
+    "_f_jscpd": {
+      "iconPath": "../../icons/file_type_jscpd.svg"
     },
     "_f_jshint": {
       "iconPath": "../../icons/file_type_jshint.svg"
@@ -1638,6 +1704,9 @@
     "_f_kotlin": {
       "iconPath": "../../icons/file_type_kotlin.svg"
     },
+    "_f_kusto": {
+      "iconPath": "../../icons/file_type_kusto.svg"
+    },
     "_f_latino": {
       "iconPath": "../../icons/file_type_latino.svg"
     },
@@ -1658,6 +1727,9 @@
     },
     "_f_license": {
       "iconPath": "../../icons/file_type_license.svg"
+    },
+    "_f_lighthouse": {
+      "iconPath": "../../icons/file_type_lighthouse.svg"
     },
     "_f_lime": {
       "iconPath": "../../icons/file_type_lime.svg"
@@ -1797,6 +1869,15 @@
     "_f_netlify": {
       "iconPath": "../../icons/file_type_netlify.svg"
     },
+    "_f_next": {
+      "iconPath": "../../icons/file_type_next.svg"
+    },
+    "_f_light_next": {
+      "iconPath": "../../icons/file_type_light_next.svg"
+    },
+    "_f_ng_tailwind": {
+      "iconPath": "../../icons/file_type_ng_tailwind.svg"
+    },
     "_f_nginx": {
       "iconPath": "../../icons/file_type_nginx.svg"
     },
@@ -1808,6 +1889,9 @@
     },
     "_f_ninja": {
       "iconPath": "../../icons/file_type_ninja.svg"
+    },
+    "_f_nix": {
+      "iconPath": "../../icons/file_type_nix.svg"
     },
     "_f_njsproj": {
       "iconPath": "../../icons/file_type_njsproj.svg"
@@ -1832,6 +1916,9 @@
     },
     "_f_nuget": {
       "iconPath": "../../icons/file_type_nuget.svg"
+    },
+    "_f_numpy": {
+      "iconPath": "../../icons/file_type_numpy.svg"
     },
     "_f_nunjucks": {
       "iconPath": "../../icons/file_type_nunjucks.svg"
@@ -2112,6 +2199,9 @@
     "_f_registry": {
       "iconPath": "../../icons/file_type_registry.svg"
     },
+    "_f_rego": {
+      "iconPath": "../../icons/file_type_rego.svg"
+    },
     "_f_rehype": {
       "iconPath": "../../icons/file_type_rehype.svg"
     },
@@ -2127,6 +2217,9 @@
     "_f_renovate": {
       "iconPath": "../../icons/file_type_renovate.svg"
     },
+    "_f_rescript": {
+      "iconPath": "../../icons/file_type_rescript.svg"
+    },
     "_f_rest": {
       "iconPath": "../../icons/file_type_rest.svg"
     },
@@ -2141,6 +2234,9 @@
     },
     "_f_riot": {
       "iconPath": "../../icons/file_type_riot.svg"
+    },
+    "_f_rmd": {
+      "iconPath": "../../icons/file_type_rmd.svg"
     },
     "_f_robotframework": {
       "iconPath": "../../icons/file_type_robotframework.svg"
@@ -2267,6 +2363,9 @@
     },
     "_f_source": {
       "iconPath": "../../icons/file_type_source.svg"
+    },
+    "_f_spacengine": {
+      "iconPath": "../../icons/file_type_spacengine.svg"
     },
     "_f_sqf": {
       "iconPath": "../../icons/file_type_sqf.svg"
@@ -2583,6 +2682,9 @@
     "_f_xliff": {
       "iconPath": "../../icons/file_type_xliff.svg"
     },
+    "_f_xmake": {
+      "iconPath": "../../icons/file_type_xmake.svg"
+    },
     "_f_xml": {
       "iconPath": "../../icons/file_type_xml.svg"
     },
@@ -2693,6 +2795,8 @@
     "widgets": "_fd_component",
     "composer": "_fd_composer",
     ".composer": "_fd_composer",
+    "conf": "_fd_config",
+    ".conf": "_fd_config",
     "config": "_fd_config",
     ".config": "_fd_config",
     "configs": "_fd_config",
@@ -2717,6 +2821,8 @@
     "coverage": "_fd_coverage",
     "css": "_fd_css",
     "_css": "_fd_css",
+    "cubits": "_fd_cubit",
+    "cubit": "_fd_cubit",
     "cypress": "_fd_cypress",
     "db": "_fd_db",
     "database": "_fd_db",
@@ -2784,6 +2890,10 @@
     ".helper": "_fd_helper",
     "helpers": "_fd_helper",
     ".helpers": "_fd_helper",
+    "hook": "_fd_hook",
+    ".hook": "_fd_hook",
+    "hooks": "_fd_hook",
+    ".hooks": "_fd_hook",
     ".idea": "_fd_idea",
     "images": "_fd_images",
     "image": "_fd_images",
@@ -2871,6 +2981,7 @@
     "mongo": "_fd_mongodb",
     "mysqldb": "_fd_mysql",
     "mysql": "_fd_mysql",
+    ".next": "_fd_next",
     "nginx": "_fd_nginx",
     "conf.d": "_fd_nginx",
     "node_modules": "_fd_node",
@@ -2927,6 +3038,7 @@
     "story": "_fd_story",
     "stories": "_fd_story",
     "__stories__": "_fd_story",
+    ".storybook": "_fd_story",
     "style": "_fd_style",
     "styles": "_fd_style",
     "temp": "_fd_temp",
@@ -2949,6 +3061,7 @@
     ".specs": "_fd_test",
     "theme": "_fd_theme",
     "themes": "_fd_theme",
+    "tool": "_fd_tools",
     "tools": "_fd_tools",
     ".tools": "_fd_tools",
     "util": "_fd_tools",
@@ -3046,6 +3159,8 @@
     "widgets": "_fd_component_open",
     "composer": "_fd_composer_open",
     ".composer": "_fd_composer_open",
+    "conf": "_fd_config_open",
+    ".conf": "_fd_config_open",
     "config": "_fd_config_open",
     ".config": "_fd_config_open",
     "configs": "_fd_config_open",
@@ -3070,6 +3185,8 @@
     "coverage": "_fd_coverage_open",
     "css": "_fd_css_open",
     "_css": "_fd_css_open",
+    "cubits": "_fd_cubit_open",
+    "cubit": "_fd_cubit_open",
     "cypress": "_fd_cypress_open",
     "db": "_fd_db_open",
     "database": "_fd_db_open",
@@ -3137,6 +3254,10 @@
     ".helper": "_fd_helper_open",
     "helpers": "_fd_helper_open",
     ".helpers": "_fd_helper_open",
+    "hook": "_fd_hook_open",
+    ".hook": "_fd_hook_open",
+    "hooks": "_fd_hook_open",
+    ".hooks": "_fd_hook_open",
     ".idea": "_fd_idea_open",
     "images": "_fd_images_open",
     "image": "_fd_images_open",
@@ -3224,6 +3345,7 @@
     "mongo": "_fd_mongodb_open",
     "mysqldb": "_fd_mysql_open",
     "mysql": "_fd_mysql_open",
+    ".next": "_fd_next_open",
     "nginx": "_fd_nginx_open",
     "conf.d": "_fd_nginx_open",
     "node_modules": "_fd_node_open",
@@ -3280,6 +3402,7 @@
     "story": "_fd_story_open",
     "stories": "_fd_story_open",
     "__stories__": "_fd_story_open",
+    ".storybook": "_fd_story_open",
     "style": "_fd_style_open",
     "styles": "_fd_style_open",
     "temp": "_fd_temp_open",
@@ -3302,6 +3425,7 @@
     ".specs": "_fd_test_open",
     "theme": "_fd_theme_open",
     "themes": "_fd_theme_open",
+    "tool": "_fd_tools_open",
     "tools": "_fd_tools_open",
     ".tools": "_fd_tools_open",
     "util": "_fd_tools_open",
@@ -3398,6 +3522,8 @@
     "vox": "_f_audio",
     "wav": "_f_audio",
     "wma": "_f_audio",
+    "avif": "_f_avif",
+    "awk": "_f_awk",
     "a": "_f_binary",
     "app": "_f_binary",
     "bin": "_f_binary",
@@ -3422,6 +3548,7 @@
     "scpt": "_f_binary",
     "scptd": "_f_binary",
     "so": "_f_binary",
+    "bb": "_f_blitzbasic",
     "gemfile": "_f_bundler",
     "gemfile.lock": "_f_bundler",
     "cake": "_f_cake",
@@ -3452,6 +3579,10 @@
     "db": "_f_db",
     "djt": "_f_django",
     "eco": "_f_docpad",
+    "drawio": "_f_drawio",
+    "dio": "_f_drawio",
+    "drawio.png": "_f_drawio",
+    "drawio.svg": "_f_drawio",
     "ejs": "_f_ejs",
     "el": "_f_emacs",
     "elc": "_f_emacs",
@@ -3481,6 +3612,7 @@
     "yyp": "_f_gamemaker2",
     "gradle": "_f_gradle",
     "hxproj": "_f_haxedevelop",
+    "ejs.t": "_f_hygen",
     "idr": "_f_idris",
     "lidr": "_f_idris",
     "ibc": "_f_idrisbin",
@@ -3550,6 +3682,8 @@
     "nupkg": "_f_nuget",
     "nuspec": "_f_nuget",
     "psmdcp": "_f_nuget",
+    "npy": "_f_numpy",
+    "npz": "_f_numpy",
     "nunj": "_f_nunjucks",
     "njs": "_f_nunjucks",
     "one": "_f_onenote",
@@ -3621,14 +3755,17 @@
     "rake": "_f_rake",
     "rt": "_f_reacttemplate",
     "reg": "_f_registry",
+    "rego": "_f_rego",
     "rproj": "_f_rproj",
     "sls": "_f_saltstack",
     "sass": "_f_sass",
     "scssm": "_f_scss",
+    "unity": "_f_shaderlab",
     "fish": "_f_shell",
     "sketch": "_f_sketch",
     "eskip": "_f_skipper",
     "sln": "_f_sln",
+    "spe": "_f_spacengine",
     "sqlite": "_f_sqlite",
     "sqlite3": "_f_sqlite",
     "db3": "_f_sqlite",
@@ -3730,6 +3867,8 @@
     "rar": "_f_zip",
     "7z": "_f_zip",
     "tar": "_f_zip",
+    "tgz": "_f_zip",
+    "bz": "_f_zip",
     "gz": "_f_zip",
     "bzip2": "_f_zip",
     "xz": "_f_zip",
@@ -3759,6 +3898,7 @@
     "babel.config.mjs": "_f_babel",
     "babel.config.json": "_f_babel",
     ".bzrignore": "_f_bazaar",
+    "BUILD.bazel": "_f_bazel",
     ".bazelrc": "_f_bazel",
     "bazel.rc": "_f_bazel",
     "bazel.bazelrc": "_f_bazel",
@@ -3793,6 +3933,7 @@
     ".config.codekit3": "_f_codekit",
     "coffeelint.json": "_f_coffeelint",
     ".coffeelintignore": "_f_coffeelint",
+    "commitlint.config.js": "_f_commitlint",
     "composer.json": "_f_composer",
     "composer.lock": "_f_composer",
     "conanfile.txt": "_f_conan",
@@ -3806,6 +3947,7 @@
     "cypress.json": "_f_cypress",
     "cypress.env.json": "_f_cypress",
     ".boringignore": "_f_darcs",
+    "dependabot.yml": "_f_dependabot",
     "dependencies.yml": "_f_dependencies",
     "devcontainer.json": "_f_devcontainer",
     "docker-compose.yml": "_f_docker",
@@ -3827,6 +3969,7 @@
     ".dojorc": "_f_dojo",
     ".drone.yml": "_f_drone",
     ".drone.yml.sig": "_f_drone",
+    ".dvc": "_f_dvc",
     ".editorconfig": "_f_editorconfig",
     "elm-package.json": "_f_elm",
     ".ember-cli": "_f_ember",
@@ -3909,6 +4052,7 @@
     ".p4ignore": "_f_helix",
     ".htmlhintrc": "_f_htmlhint",
     ".huskyrc": "_f_husky",
+    "husky.config.js": "_f_husky",
     ".huskyrc.js": "_f_husky",
     ".huskyrc.json": "_f_husky",
     ".huskyrc.yaml": "_f_husky",
@@ -3917,6 +4061,7 @@
     "ionic.config.json": "_f_ionic",
     "jakefile": "_f_jake",
     "jakefile.js": "_f_jake",
+    "jasmine.json": "_f_jasmine",
     "jest.config.json": "_f_jest",
     "jest.json": "_f_jest",
     ".jestrc": "_f_jest",
@@ -3934,6 +4079,10 @@
     ".jsbeautify": "_f_jsbeautify",
     "jsbeautify": "_f_jsbeautify",
     "jsconfig.json": "_f_jsconfig",
+    ".jscpd.json": "_f_jscpd",
+    "jscpd-report.xml": "_f_jscpd",
+    "jscpd-report.json": "_f_jscpd",
+    "jscpd-report.html": "_f_jscpd",
     ".jshintrc": "_f_jshint",
     ".jshintignore": "_f_jshint",
     "karma.conf.js": "_f_karma",
@@ -3951,6 +4100,10 @@
     "license.txt": "_f_license",
     "licence.md": "_f_license",
     "licence.txt": "_f_license",
+    ".lighthouserc.js": "_f_lighthouse",
+    ".lighthouserc.json": "_f_lighthouse",
+    ".lighthouserc.yaml": "_f_lighthouse",
+    ".lighthouserc.yml": "_f_lighthouse",
     "include.xml": "_f_lime",
     ".lintstagedrc": "_f_lintstagedrc",
     "lint-staged.config.js": "_f_lintstagedrc",
@@ -3987,6 +4140,8 @@
     "nestconfig.json": "_f_nestjs",
     ".nestconfig.json": "_f_nestjs",
     "netlify.toml": "_f_netlify",
+    "next.config.js": "_f_next",
+    "ng-tailwind.js": "_f_ng_tailwind",
     "nginx.conf": "_f_nginx",
     "build.ninja": "_f_ninja",
     ".node-version": "_f_node",
@@ -4036,10 +4191,13 @@
     ".prettierrc": "_f_prettier",
     ".prettierignore": "_f_prettier",
     "prettier.config.js": "_f_prettier",
+    "prettier.config.cjs": "_f_prettier",
     "prettier.config.ts": "_f_prettier",
     "prettier.config.coffee": "_f_prettier",
     ".prettierrc.js": "_f_prettier",
+    ".prettierrc.cjs": "_f_prettier",
     ".prettierrc.json": "_f_prettier",
+    ".prettierrc.json5": "_f_prettier",
     ".prettierrc.yml": "_f_prettier",
     ".prettierrc.yaml": "_f_prettier",
     "procfile": "_f_procfile",
@@ -4080,18 +4238,22 @@
     ".retextrc.yaml": "_f_retext",
     "robots.txt": "_f_robots",
     "rollup.config.js": "_f_rollup",
+    "rollup.config.cjs": "_f_rollup",
     "rollup.config.mjs": "_f_rollup",
     "rollup.config.coffee": "_f_rollup",
     "rollup.config.ts": "_f_rollup",
     "rollup.config.common.js": "_f_rollup",
+    "rollup.config.common.cjs": "_f_rollup",
     "rollup.config.common.mjs": "_f_rollup",
     "rollup.config.common.coffee": "_f_rollup",
     "rollup.config.common.ts": "_f_rollup",
     "rollup.config.dev.js": "_f_rollup",
+    "rollup.config.dev.cjs": "_f_rollup",
     "rollup.config.dev.mjs": "_f_rollup",
     "rollup.config.dev.coffee": "_f_rollup",
     "rollup.config.dev.ts": "_f_rollup",
     "rollup.config.prod.js": "_f_rollup",
+    "rollup.config.prod.cjs": "_f_rollup",
     "rollup.config.prod.mjs": "_f_rollup",
     "rollup.config.prod.coffee": "_f_rollup",
     "rollup.config.prod.ts": "_f_rollup",
@@ -4287,7 +4449,9 @@
     ".yarnignore": "_f_yarn",
     ".yo-rc.json": "_f_yeoman",
     "now.json": "_f_zeit",
-    ".nowignore": "_f_zeit"
+    ".nowignore": "_f_zeit",
+    "vercel.json": "_f_zeit",
+    ".vercelignore": "_f_zeit"
   },
   "languageIds": {
     "actionscript": "_f_actionscript",
@@ -4316,17 +4480,22 @@
     "azure-pipelines": "_f_azurepipelines",
     "ballerina": "_f_ballerina",
     "bat": "_f_bat",
+    "bats": "_f_bats",
     "bazel": "_f_bazel",
+    "starlark": "_f_bazel",
     "befunge": "_f_befunge",
     "befunge98": "_f_befunge",
     "biml": "_f_biml",
     "blade": "_f_blade",
     "laravel-blade": "_f_blade",
+    "blitzbasic": "_f_blitzbasic",
     "bolt": "_f_bolt",
+    "bosque": "_f_bosque",
     "c": "_f_c",
     "c-al": "_f_c_al",
     "cabal": "_f_cabal",
     "caddyfile": "_f_caddy",
+    "cddl": "_f_cddl",
     "ceylon": "_f_ceylon",
     "cfml": "_f_cf",
     "lang-cfml": "_f_cf",
@@ -4384,6 +4553,7 @@
     "fortran_fixed-form": "_f_fortran",
     "ftl": "_f_freemarker",
     "fsharp": "_f_fsharp",
+    "fthtml": "_f_fthtml",
     "galen": "_f_galen",
     "gml-gms": "_f_gamemaker",
     "gml-gms2": "_f_gamemaker2",
@@ -4393,6 +4563,7 @@
     "git-commit": "_f_git",
     "git-rebase": "_f_git",
     "glsl": "_f_glsl",
+    "glyphs": "_f_glyphs",
     "gnuplot": "_f_gnuplot",
     "go": "_f_go",
     "gdscript": "_f_godot",
@@ -4416,6 +4587,7 @@
     "http": "_f_http",
     "hunspell.aff": "_f_hunspell",
     "hunspell.dic": "_f_hunspell",
+    "hy": "_f_hy",
     "icl": "_f_icl",
     "imba": "_f_imba",
     "4GL": "_f_informix",
@@ -4442,6 +4614,7 @@
     "kivy": "_f_kivy",
     "kos": "_f_kos",
     "kotlin": "_f_kotlin",
+    "kusto": "_f_kusto",
     "latino": "_f_latino",
     "less": "_f_less",
     "lex": "_f_lex",
@@ -4458,14 +4631,14 @@
     "mediawiki": "_f_mediawiki",
     "meson": "_f_meson",
     "mjml": "_f_mjml",
-    "mlang": "_f_mlang",
-    "powerquerymlanguage": "_f_mlang",
+    "powerquery": "_f_mlang",
     "mojolicious": "_f_mojolicious",
     "mongo": "_f_mongo",
     "mson": "_f_mson",
     "nearley": "_f_nearly",
     "nim": "_f_nim",
     "nimble": "_f_nimble",
+    "nix": "_f_nix",
     "nsis": "_f_nsi",
     "nfl": "_f_nsi",
     "nsl": "_f_nsi",
@@ -4485,6 +4658,7 @@
     "pgsql": "_f_pgsql",
     "php": "_f_php",
     "pine": "_f_pine",
+    "pinescript": "_f_pine",
     "pip-requirements": "_f_pip",
     "platformio-debug.disassembly": "_f_platformio",
     "platformio-debug.memoryview": "_f_platformio",
@@ -4519,9 +4693,11 @@
     "typescriptreact": "_f_reactts",
     "reason": "_f_reason",
     "red": "_f_red",
+    "rescript": "_f_rescript",
     "restructuredtext": "_f_rest",
     "rexx": "_f_rexx",
     "riot": "_f_riot",
+    "rmd": "_f_rmd",
     "robot": "_f_robotframework",
     "ruby": "_f_ruby",
     "rust": "_f_rust",
@@ -4590,6 +4766,7 @@
     "wolfram": "_f_wolfram",
     "wurstlang": "_f_wurst",
     "wurst": "_f_wurst",
+    "xmake": "_f_xmake",
     "xml": "_f_xml",
     "xquery": "_f_xquery",
     "xsl": "_f_xsl",
@@ -4664,6 +4841,8 @@
       "widgets": "_fd_component",
       "composer": "_fd_composer",
       ".composer": "_fd_composer",
+      "conf": "_fd_config",
+      ".conf": "_fd_config",
       "config": "_fd_config",
       ".config": "_fd_config",
       "configs": "_fd_config",
@@ -4688,6 +4867,8 @@
       "coverage": "_fd_coverage",
       "css": "_fd_css",
       "_css": "_fd_css",
+      "cubits": "_fd_cubit",
+      "cubit": "_fd_cubit",
       "cypress": "_fd_cypress",
       "db": "_fd_db",
       "database": "_fd_db",
@@ -4755,6 +4936,10 @@
       ".helper": "_fd_helper",
       "helpers": "_fd_helper",
       ".helpers": "_fd_helper",
+      "hook": "_fd_hook",
+      ".hook": "_fd_hook",
+      "hooks": "_fd_hook",
+      ".hooks": "_fd_hook",
       ".idea": "_fd_idea",
       "images": "_fd_images",
       "image": "_fd_images",
@@ -4842,6 +5027,7 @@
       "mongo": "_fd_mongodb",
       "mysqldb": "_fd_light_mysql",
       "mysql": "_fd_light_mysql",
+      ".next": "_fd_next",
       "nginx": "_fd_nginx",
       "conf.d": "_fd_nginx",
       "node_modules": "_fd_light_node",
@@ -4898,6 +5084,7 @@
       "story": "_fd_story",
       "stories": "_fd_story",
       "__stories__": "_fd_story",
+      ".storybook": "_fd_story",
       "style": "_fd_style",
       "styles": "_fd_style",
       "temp": "_fd_temp",
@@ -4920,6 +5107,7 @@
       ".specs": "_fd_test",
       "theme": "_fd_theme",
       "themes": "_fd_theme",
+      "tool": "_fd_tools",
       "tools": "_fd_tools",
       ".tools": "_fd_tools",
       "util": "_fd_tools",
@@ -5017,6 +5205,8 @@
       "widgets": "_fd_component_open",
       "composer": "_fd_composer_open",
       ".composer": "_fd_composer_open",
+      "conf": "_fd_config_open",
+      ".conf": "_fd_config_open",
       "config": "_fd_config_open",
       ".config": "_fd_config_open",
       "configs": "_fd_config_open",
@@ -5041,6 +5231,8 @@
       "coverage": "_fd_coverage_open",
       "css": "_fd_css_open",
       "_css": "_fd_css_open",
+      "cubits": "_fd_cubit_open",
+      "cubit": "_fd_cubit_open",
       "cypress": "_fd_cypress_open",
       "db": "_fd_db_open",
       "database": "_fd_db_open",
@@ -5108,6 +5300,10 @@
       ".helper": "_fd_helper_open",
       "helpers": "_fd_helper_open",
       ".helpers": "_fd_helper_open",
+      "hook": "_fd_hook_open",
+      ".hook": "_fd_hook_open",
+      "hooks": "_fd_hook_open",
+      ".hooks": "_fd_hook_open",
       ".idea": "_fd_idea_open",
       "images": "_fd_images_open",
       "image": "_fd_images_open",
@@ -5195,6 +5391,7 @@
       "mongo": "_fd_mongodb_open",
       "mysqldb": "_fd_light_mysql_open",
       "mysql": "_fd_light_mysql_open",
+      ".next": "_fd_next_open",
       "nginx": "_fd_nginx_open",
       "conf.d": "_fd_nginx_open",
       "node_modules": "_fd_light_node_open",
@@ -5251,6 +5448,7 @@
       "story": "_fd_story_open",
       "stories": "_fd_story_open",
       "__stories__": "_fd_story_open",
+      ".storybook": "_fd_story_open",
       "style": "_fd_style_open",
       "styles": "_fd_style_open",
       "temp": "_fd_temp_open",
@@ -5273,6 +5471,7 @@
       ".specs": "_fd_test_open",
       "theme": "_fd_theme_open",
       "themes": "_fd_theme_open",
+      "tool": "_fd_tools_open",
       "tools": "_fd_tools_open",
       ".tools": "_fd_tools_open",
       "util": "_fd_tools_open",
@@ -5369,6 +5568,8 @@
       "vox": "_f_audio",
       "wav": "_f_audio",
       "wma": "_f_audio",
+      "avif": "_f_avif",
+      "awk": "_f_awk",
       "a": "_f_binary",
       "app": "_f_binary",
       "bin": "_f_binary",
@@ -5393,6 +5594,7 @@
       "scpt": "_f_binary",
       "scptd": "_f_binary",
       "so": "_f_binary",
+      "bb": "_f_blitzbasic",
       "gemfile": "_f_bundler",
       "gemfile.lock": "_f_bundler",
       "cake": "_f_cake",
@@ -5423,6 +5625,10 @@
       "db": "_f_light_db",
       "djt": "_f_django",
       "eco": "_f_light_docpad",
+      "drawio": "_f_drawio",
+      "dio": "_f_drawio",
+      "drawio.png": "_f_drawio",
+      "drawio.svg": "_f_drawio",
       "ejs": "_f_ejs",
       "el": "_f_emacs",
       "elc": "_f_emacs",
@@ -5452,6 +5658,7 @@
       "yyp": "_f_light_gamemaker2",
       "gradle": "_f_light_gradle",
       "hxproj": "_f_haxedevelop",
+      "ejs.t": "_f_hygen",
       "idr": "_f_idris",
       "lidr": "_f_idris",
       "ibc": "_f_idrisbin",
@@ -5521,6 +5728,8 @@
       "nupkg": "_f_nuget",
       "nuspec": "_f_nuget",
       "psmdcp": "_f_nuget",
+      "npy": "_f_numpy",
+      "npz": "_f_numpy",
       "nunj": "_f_nunjucks",
       "njs": "_f_nunjucks",
       "one": "_f_onenote",
@@ -5592,14 +5801,17 @@
       "rake": "_f_rake",
       "rt": "_f_reacttemplate",
       "reg": "_f_registry",
+      "rego": "_f_rego",
       "rproj": "_f_rproj",
       "sls": "_f_saltstack",
       "sass": "_f_sass",
       "scssm": "_f_scss",
+      "unity": "_f_light_shaderlab",
       "fish": "_f_shell",
       "sketch": "_f_sketch",
       "eskip": "_f_skipper",
       "sln": "_f_sln",
+      "spe": "_f_spacengine",
       "sqlite": "_f_sqlite",
       "sqlite3": "_f_sqlite",
       "db3": "_f_sqlite",
@@ -5701,6 +5913,8 @@
       "rar": "_f_zip",
       "7z": "_f_zip",
       "tar": "_f_zip",
+      "tgz": "_f_zip",
+      "bz": "_f_zip",
       "gz": "_f_zip",
       "bzip2": "_f_zip",
       "xz": "_f_zip",
@@ -5730,6 +5944,7 @@
       "babel.config.mjs": "_f_light_babel",
       "babel.config.json": "_f_light_babel",
       ".bzrignore": "_f_bazaar",
+      "BUILD.bazel": "_f_bazel",
       ".bazelrc": "_f_bazel",
       "bazel.rc": "_f_bazel",
       "bazel.bazelrc": "_f_bazel",
@@ -5764,6 +5979,7 @@
       ".config.codekit3": "_f_codekit",
       "coffeelint.json": "_f_coffeelint",
       ".coffeelintignore": "_f_coffeelint",
+      "commitlint.config.js": "_f_commitlint",
       "composer.json": "_f_composer",
       "composer.lock": "_f_composer",
       "conanfile.txt": "_f_conan",
@@ -5777,6 +5993,7 @@
       "cypress.json": "_f_cypress",
       "cypress.env.json": "_f_cypress",
       ".boringignore": "_f_darcs",
+      "dependabot.yml": "_f_dependabot",
       "dependencies.yml": "_f_dependencies",
       "devcontainer.json": "_f_devcontainer",
       "docker-compose.yml": "_f_docker",
@@ -5798,6 +6015,7 @@
       ".dojorc": "_f_dojo",
       ".drone.yml": "_f_light_drone",
       ".drone.yml.sig": "_f_light_drone",
+      ".dvc": "_f_dvc",
       ".editorconfig": "_f_editorconfig",
       "elm-package.json": "_f_elm",
       ".ember-cli": "_f_ember",
@@ -5880,6 +6098,7 @@
       ".p4ignore": "_f_helix",
       ".htmlhintrc": "_f_htmlhint",
       ".huskyrc": "_f_husky",
+      "husky.config.js": "_f_husky",
       ".huskyrc.js": "_f_husky",
       ".huskyrc.json": "_f_husky",
       ".huskyrc.yaml": "_f_husky",
@@ -5888,6 +6107,7 @@
       "ionic.config.json": "_f_ionic",
       "jakefile": "_f_jake",
       "jakefile.js": "_f_jake",
+      "jasmine.json": "_f_jasmine",
       "jest.config.json": "_f_jest",
       "jest.json": "_f_jest",
       ".jestrc": "_f_jest",
@@ -5905,6 +6125,10 @@
       ".jsbeautify": "_f_jsbeautify",
       "jsbeautify": "_f_jsbeautify",
       "jsconfig.json": "_f_light_jsconfig",
+      ".jscpd.json": "_f_jscpd",
+      "jscpd-report.xml": "_f_jscpd",
+      "jscpd-report.json": "_f_jscpd",
+      "jscpd-report.html": "_f_jscpd",
       ".jshintrc": "_f_jshint",
       ".jshintignore": "_f_jshint",
       "karma.conf.js": "_f_karma",
@@ -5922,6 +6146,10 @@
       "license.txt": "_f_license",
       "licence.md": "_f_license",
       "licence.txt": "_f_license",
+      ".lighthouserc.js": "_f_lighthouse",
+      ".lighthouserc.json": "_f_lighthouse",
+      ".lighthouserc.yaml": "_f_lighthouse",
+      ".lighthouserc.yml": "_f_lighthouse",
       "include.xml": "_f_lime",
       ".lintstagedrc": "_f_lintstagedrc",
       "lint-staged.config.js": "_f_lintstagedrc",
@@ -5958,6 +6186,8 @@
       "nestconfig.json": "_f_nestjs",
       ".nestconfig.json": "_f_nestjs",
       "netlify.toml": "_f_netlify",
+      "next.config.js": "_f_light_next",
+      "ng-tailwind.js": "_f_ng_tailwind",
       "nginx.conf": "_f_nginx",
       "build.ninja": "_f_ninja",
       ".node-version": "_f_node",
@@ -6007,10 +6237,13 @@
       ".prettierrc": "_f_light_prettier",
       ".prettierignore": "_f_light_prettier",
       "prettier.config.js": "_f_light_prettier",
+      "prettier.config.cjs": "_f_light_prettier",
       "prettier.config.ts": "_f_light_prettier",
       "prettier.config.coffee": "_f_light_prettier",
       ".prettierrc.js": "_f_light_prettier",
+      ".prettierrc.cjs": "_f_light_prettier",
       ".prettierrc.json": "_f_light_prettier",
+      ".prettierrc.json5": "_f_light_prettier",
       ".prettierrc.yml": "_f_light_prettier",
       ".prettierrc.yaml": "_f_light_prettier",
       "procfile": "_f_procfile",
@@ -6051,18 +6284,22 @@
       ".retextrc.yaml": "_f_light_retext",
       "robots.txt": "_f_robots",
       "rollup.config.js": "_f_rollup",
+      "rollup.config.cjs": "_f_rollup",
       "rollup.config.mjs": "_f_rollup",
       "rollup.config.coffee": "_f_rollup",
       "rollup.config.ts": "_f_rollup",
       "rollup.config.common.js": "_f_rollup",
+      "rollup.config.common.cjs": "_f_rollup",
       "rollup.config.common.mjs": "_f_rollup",
       "rollup.config.common.coffee": "_f_rollup",
       "rollup.config.common.ts": "_f_rollup",
       "rollup.config.dev.js": "_f_rollup",
+      "rollup.config.dev.cjs": "_f_rollup",
       "rollup.config.dev.mjs": "_f_rollup",
       "rollup.config.dev.coffee": "_f_rollup",
       "rollup.config.dev.ts": "_f_rollup",
       "rollup.config.prod.js": "_f_rollup",
+      "rollup.config.prod.cjs": "_f_rollup",
       "rollup.config.prod.mjs": "_f_rollup",
       "rollup.config.prod.coffee": "_f_rollup",
       "rollup.config.prod.ts": "_f_rollup",
@@ -6258,7 +6495,9 @@
       ".yarnignore": "_f_yarn",
       ".yo-rc.json": "_f_yeoman",
       "now.json": "_f_light_zeit",
-      ".nowignore": "_f_light_zeit"
+      ".nowignore": "_f_light_zeit",
+      "vercel.json": "_f_light_zeit",
+      ".vercelignore": "_f_light_zeit"
     },
     "languageIds": {
       "actionscript": "_f_actionscript",
@@ -6287,17 +6526,22 @@
       "azure-pipelines": "_f_azurepipelines",
       "ballerina": "_f_ballerina",
       "bat": "_f_bat",
+      "bats": "_f_bats",
       "bazel": "_f_bazel",
+      "starlark": "_f_bazel",
       "befunge": "_f_befunge",
       "befunge98": "_f_befunge",
       "biml": "_f_biml",
       "blade": "_f_blade",
       "laravel-blade": "_f_blade",
+      "blitzbasic": "_f_blitzbasic",
       "bolt": "_f_bolt",
+      "bosque": "_f_bosque",
       "c": "_f_c",
       "c-al": "_f_c_al",
       "cabal": "_f_cabal",
       "caddyfile": "_f_caddy",
+      "cddl": "_f_cddl",
       "ceylon": "_f_ceylon",
       "cfml": "_f_cf",
       "lang-cfml": "_f_cf",
@@ -6355,6 +6599,7 @@
       "fortran_fixed-form": "_f_fortran",
       "ftl": "_f_freemarker",
       "fsharp": "_f_fsharp",
+      "fthtml": "_f_fthtml",
       "galen": "_f_galen",
       "gml-gms": "_f_gamemaker",
       "gml-gms2": "_f_light_gamemaker2",
@@ -6364,6 +6609,7 @@
       "git-commit": "_f_git",
       "git-rebase": "_f_git",
       "glsl": "_f_glsl",
+      "glyphs": "_f_glyphs",
       "gnuplot": "_f_gnuplot",
       "go": "_f_go",
       "gdscript": "_f_godot",
@@ -6387,6 +6633,7 @@
       "http": "_f_http",
       "hunspell.aff": "_f_hunspell",
       "hunspell.dic": "_f_hunspell",
+      "hy": "_f_hy",
       "icl": "_f_icl",
       "imba": "_f_imba",
       "4GL": "_f_informix",
@@ -6413,6 +6660,7 @@
       "kivy": "_f_kivy",
       "kos": "_f_kos",
       "kotlin": "_f_kotlin",
+      "kusto": "_f_kusto",
       "latino": "_f_latino",
       "less": "_f_less",
       "lex": "_f_lex",
@@ -6429,14 +6677,14 @@
       "mediawiki": "_f_mediawiki",
       "meson": "_f_meson",
       "mjml": "_f_mjml",
-      "mlang": "_f_light_mlang",
-      "powerquerymlanguage": "_f_light_mlang",
+      "powerquery": "_f_light_mlang",
       "mojolicious": "_f_mojolicious",
       "mongo": "_f_mongo",
       "mson": "_f_mson",
       "nearley": "_f_nearly",
       "nim": "_f_nim",
       "nimble": "_f_nimble",
+      "nix": "_f_nix",
       "nsis": "_f_nsi",
       "nfl": "_f_nsi",
       "nsl": "_f_nsi",
@@ -6456,6 +6704,7 @@
       "pgsql": "_f_pgsql",
       "php": "_f_php",
       "pine": "_f_pine",
+      "pinescript": "_f_pine",
       "pip-requirements": "_f_pip",
       "platformio-debug.disassembly": "_f_platformio",
       "platformio-debug.memoryview": "_f_platformio",
@@ -6490,9 +6739,11 @@
       "typescriptreact": "_f_reactts",
       "reason": "_f_reason",
       "red": "_f_red",
+      "rescript": "_f_rescript",
       "restructuredtext": "_f_rest",
       "rexx": "_f_rexx",
       "riot": "_f_riot",
+      "rmd": "_f_rmd",
       "robot": "_f_robotframework",
       "ruby": "_f_ruby",
       "rust": "_f_rust",
@@ -6561,6 +6812,7 @@
       "wolfram": "_f_wolfram",
       "wurstlang": "_f_wurst",
       "wurst": "_f_wurst",
+      "xmake": "_f_xmake",
       "xml": "_f_xml",
       "xquery": "_f_xquery",
       "xsl": "_f_xsl",
