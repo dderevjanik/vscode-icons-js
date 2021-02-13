@@ -1320,6 +1320,9 @@
     "_f_falcon": {
       "iconPath": "../../icons/file_type_falcon.svg"
     },
+    "_f_fauna": {
+      "iconPath": "../../icons/file_type_fauna.svg"
+    },
     "_f_favicon": {
       "iconPath": "../../icons/file_type_favicon.svg"
     },
@@ -1532,6 +1535,9 @@
     },
     "_f_hygen": {
       "iconPath": "../../icons/file_type_hygen.svg"
+    },
+    "_f_hypr": {
+      "iconPath": "../../icons/file_type_hypr.svg"
     },
     "_f_icl": {
       "iconPath": "../../icons/file_type_icl.svg"
@@ -1938,6 +1944,9 @@
     "_f_ocaml": {
       "iconPath": "../../icons/file_type_ocaml.svg"
     },
+    "_f_ogone": {
+      "iconPath": "../../icons/file_type_ogone.svg"
+    },
     "_f_onenote": {
       "iconPath": "../../icons/file_type_onenote.svg"
     },
@@ -2132,6 +2141,9 @@
     },
     "_f_python": {
       "iconPath": "../../icons/file_type_python.svg"
+    },
+    "_f_pytyped": {
+      "iconPath": "../../icons/file_type_pytyped.svg"
     },
     "_f_pyup": {
       "iconPath": "../../icons/file_type_pyup.svg"
@@ -2505,6 +2517,9 @@
     "_f_tfs": {
       "iconPath": "../../icons/file_type_tfs.svg"
     },
+    "_f_tiltfile": {
+      "iconPath": "../../icons/file_type_tiltfile.svg"
+    },
     "_f_todo": {
       "iconPath": "../../icons/file_type_todo.svg"
     },
@@ -2535,8 +2550,14 @@
     "_f_ttcn": {
       "iconPath": "../../icons/file_type_ttcn.svg"
     },
+    "_f_tuc": {
+      "iconPath": "../../icons/file_type_tuc.svg"
+    },
     "_f_twig": {
       "iconPath": "../../icons/file_type_twig.svg"
+    },
+    "_f_typedoc": {
+      "iconPath": "../../icons/file_type_typedoc.svg"
     },
     "_f_typescript": {
       "iconPath": "../../icons/file_type_typescript.svg"
@@ -2552,6 +2573,9 @@
     },
     "_f_light_unibeautify": {
       "iconPath": "../../icons/file_type_light_unibeautify.svg"
+    },
+    "_f_unlicense": {
+      "iconPath": "../../icons/file_type_unlicense.svg"
     },
     "_f_vagrant": {
       "iconPath": "../../icons/file_type_vagrant.svg"
@@ -2787,6 +2811,7 @@
     "commandline": "_fd_cli",
     "console": "_fd_cli",
     "client": "_fd_client",
+    "clients": "_fd_client",
     ".cmake": "_fd_cmake",
     "cmake": "_fd_cmake",
     "component": "_fd_component",
@@ -3151,6 +3176,7 @@
     "commandline": "_fd_cli_open",
     "console": "_fd_cli_open",
     "client": "_fd_client_open",
+    "clients": "_fd_client_open",
     ".cmake": "_fd_cmake_open",
     "cmake": "_fd_cmake_open",
     "component": "_fd_component_open",
@@ -3573,6 +3599,9 @@
     "kit": "_f_codekit",
     "plist": "_f_config",
     "hpp": "_f_cppheader",
+    "hh": "_f_cppheader",
+    "hxx": "_f_cppheader",
+    "h++": "_f_cppheader",
     "csx": "_f_csharp",
     "csproj": "_f_csproj",
     "css.map": "_f_cssmap",
@@ -3675,11 +3704,11 @@
     "slddc": "_f_matlab",
     "smv": "_f_matlab",
     "xvc": "_f_matlab",
-    "mdx": "_f_mdx",
     "mustache": "_f_mustache",
     "mst": "_f_mustache",
     "njsproj": "_f_njsproj",
     "nupkg": "_f_nuget",
+    "snupkg": "_f_nuget",
     "nuspec": "_f_nuget",
     "psmdcp": "_f_nuget",
     "npy": "_f_numpy",
@@ -3988,6 +4017,7 @@
     "app.config.js": "_f_expo",
     "app.config.json": "_f_expo",
     "app.config.json5": "_f_expo",
+    ".faunarc": "_f_fauna",
     "favicon.ico": "_f_favicon",
     ".firebaserc": "_f_firebase",
     "firebase.json": "_f_firebasehosting",
@@ -4041,12 +4071,15 @@
     "gulpfile.js": "_f_gulp",
     "gulpfile.coffee": "_f_gulp",
     "gulpfile.ts": "_f_gulp",
+    "gulpfile.mjs": "_f_gulp",
     "gulpfile.esm.js": "_f_gulp",
     "gulpfile.esm.coffee": "_f_gulp",
     "gulpfile.esm.ts": "_f_gulp",
+    "gulpfile.esm.mjs": "_f_gulp",
     "gulpfile.babel.js": "_f_gulp",
     "gulpfile.babel.coffee": "_f_gulp",
     "gulpfile.babel.ts": "_f_gulp",
+    "gulpfile.babel.mjs": "_f_gulp",
     "haxelib.json": "_f_haxe",
     "checkstyle.json": "_f_haxecheckstyle",
     ".p4ignore": "_f_helix",
@@ -4063,6 +4096,7 @@
     "jakefile.js": "_f_jake",
     "jasmine.json": "_f_jasmine",
     "jest.config.json": "_f_jest",
+    "jest.config.ts": "_f_jest",
     "jest.json": "_f_jest",
     ".jestrc": "_f_jest",
     ".jestrc.js": "_f_jest",
@@ -4096,10 +4130,16 @@
     "lerna.json": "_f_lerna",
     "license": "_f_license",
     "licence": "_f_license",
+    "copying": "_f_license",
+    "copying.lesser": "_f_license",
     "license.md": "_f_license",
     "license.txt": "_f_license",
     "licence.md": "_f_license",
     "licence.txt": "_f_license",
+    "copying.md": "_f_license",
+    "copying.txt": "_f_license",
+    "copying.lesser.md": "_f_license",
+    "copying.lesser.txt": "_f_license",
     ".lighthouserc.js": "_f_lighthouse",
     ".lighthouserc.json": "_f_lighthouse",
     ".lighthouserc.yaml": "_f_lighthouse",
@@ -4209,6 +4249,7 @@
     ".jade-lint.json": "_f_pug",
     ".pug-lintrc.js": "_f_pug",
     ".pug-lintrc.json": "_f_pug",
+    "py.typed": "_f_pytyped",
     ".pyup": "_f_pyup",
     ".pyup.yml": "_f_pyup",
     "qmldir": "_f_qmldir",
@@ -4314,12 +4355,20 @@
     "tslint.json": "_f_tslint",
     "tslint.yaml": "_f_tslint",
     "tslint.yml": "_f_tslint",
+    "typedoc.js": "_f_typedoc",
+    "typedoc.json": "_f_typedoc",
     ".unibeautifyrc": "_f_unibeautify",
     "unibeautify.config.js": "_f_unibeautify",
     ".unibeautifyrc.js": "_f_unibeautify",
     ".unibeautifyrc.json": "_f_unibeautify",
     ".unibeautifyrc.yaml": "_f_unibeautify",
     ".unibeautifyrc.yml": "_f_unibeautify",
+    "unlicense": "_f_unlicense",
+    "unlicence": "_f_unlicense",
+    "unlicense.md": "_f_unlicense",
+    "unlicense.txt": "_f_unlicense",
+    "unlicence.md": "_f_unlicense",
+    "unlicence.txt": "_f_unlicense",
     "vagrantfile": "_f_vagrant",
     ".vimrc": "_f_vim",
     ".gvimrc": "_f_vim",
@@ -4497,7 +4546,7 @@
     "caddyfile": "_f_caddy",
     "cddl": "_f_cddl",
     "ceylon": "_f_ceylon",
-    "cfml": "_f_cf",
+    "cfml": "_f_cfm",
     "lang-cfml": "_f_cf",
     "cfc": "_f_cfc",
     "cfmhtml": "_f_cfm",
@@ -4547,6 +4596,7 @@
     "erb": "_f_erb",
     "erlang": "_f_erlang",
     "falcon": "_f_falcon",
+    "fql": "_f_fauna",
     "fortran": "_f_fortran",
     "fortran-modern": "_f_fortran",
     "FortranFreeForm": "_f_fortran",
@@ -4588,6 +4638,7 @@
     "hunspell.aff": "_f_hunspell",
     "hunspell.dic": "_f_hunspell",
     "hy": "_f_hy",
+    "hypr": "_f_hypr",
     "icl": "_f_icl",
     "imba": "_f_imba",
     "4GL": "_f_informix",
@@ -4628,6 +4679,7 @@
     "matlab": "_f_matlab",
     "maxscript": "_f_maxscript",
     "mel": "_f_maya",
+    "mdx": "_f_mdx",
     "mediawiki": "_f_mediawiki",
     "meson": "_f_meson",
     "mjml": "_f_mjml",
@@ -4649,6 +4701,7 @@
     "ocaml": "_f_ocaml",
     "ocamllex": "_f_ocaml",
     "menhir": "_f_ocaml",
+    "ogone": "_f_ogone",
     "openhab": "_f_openHAB",
     "pddl": "_f_pddl",
     "happenings": "_f_pddl_happenings",
@@ -4745,9 +4798,11 @@
     "doctex": "_f_tex",
     "plaintext": "_f_text",
     "textile": "_f_textile",
+    "tiltfile": "_f_tiltfile",
     "toml": "_f_toml",
     "tt": "_f_tt",
     "ttcn": "_f_ttcn",
+    "tuc": "_f_tuc",
     "twig": "_f_twig",
     "typescript": "_f_typescript",
     "typoscript": "_f_typo3",
@@ -4833,6 +4888,7 @@
       "commandline": "_fd_cli",
       "console": "_fd_cli",
       "client": "_fd_client",
+      "clients": "_fd_client",
       ".cmake": "_fd_cmake",
       "cmake": "_fd_cmake",
       "component": "_fd_component",
@@ -5197,6 +5253,7 @@
       "commandline": "_fd_cli_open",
       "console": "_fd_cli_open",
       "client": "_fd_client_open",
+      "clients": "_fd_client_open",
       ".cmake": "_fd_cmake_open",
       "cmake": "_fd_cmake_open",
       "component": "_fd_component_open",
@@ -5619,6 +5676,9 @@
       "kit": "_f_codekit",
       "plist": "_f_light_config",
       "hpp": "_f_cppheader",
+      "hh": "_f_cppheader",
+      "hxx": "_f_cppheader",
+      "h++": "_f_cppheader",
       "csx": "_f_csharp",
       "csproj": "_f_csproj",
       "css.map": "_f_cssmap",
@@ -5721,11 +5781,11 @@
       "slddc": "_f_matlab",
       "smv": "_f_matlab",
       "xvc": "_f_matlab",
-      "mdx": "_f_light_mdx",
       "mustache": "_f_light_mustache",
       "mst": "_f_light_mustache",
       "njsproj": "_f_njsproj",
       "nupkg": "_f_nuget",
+      "snupkg": "_f_nuget",
       "nuspec": "_f_nuget",
       "psmdcp": "_f_nuget",
       "npy": "_f_numpy",
@@ -6034,6 +6094,7 @@
       "app.config.js": "_f_light_expo",
       "app.config.json": "_f_light_expo",
       "app.config.json5": "_f_light_expo",
+      ".faunarc": "_f_fauna",
       "favicon.ico": "_f_favicon",
       ".firebaserc": "_f_firebase",
       "firebase.json": "_f_light_firebasehosting",
@@ -6087,12 +6148,15 @@
       "gulpfile.js": "_f_gulp",
       "gulpfile.coffee": "_f_gulp",
       "gulpfile.ts": "_f_gulp",
+      "gulpfile.mjs": "_f_gulp",
       "gulpfile.esm.js": "_f_gulp",
       "gulpfile.esm.coffee": "_f_gulp",
       "gulpfile.esm.ts": "_f_gulp",
+      "gulpfile.esm.mjs": "_f_gulp",
       "gulpfile.babel.js": "_f_gulp",
       "gulpfile.babel.coffee": "_f_gulp",
       "gulpfile.babel.ts": "_f_gulp",
+      "gulpfile.babel.mjs": "_f_gulp",
       "haxelib.json": "_f_haxe",
       "checkstyle.json": "_f_haxecheckstyle",
       ".p4ignore": "_f_helix",
@@ -6109,6 +6173,7 @@
       "jakefile.js": "_f_jake",
       "jasmine.json": "_f_jasmine",
       "jest.config.json": "_f_jest",
+      "jest.config.ts": "_f_jest",
       "jest.json": "_f_jest",
       ".jestrc": "_f_jest",
       ".jestrc.js": "_f_jest",
@@ -6142,10 +6207,16 @@
       "lerna.json": "_f_light_lerna",
       "license": "_f_license",
       "licence": "_f_license",
+      "copying": "_f_license",
+      "copying.lesser": "_f_license",
       "license.md": "_f_license",
       "license.txt": "_f_license",
       "licence.md": "_f_license",
       "licence.txt": "_f_license",
+      "copying.md": "_f_license",
+      "copying.txt": "_f_license",
+      "copying.lesser.md": "_f_license",
+      "copying.lesser.txt": "_f_license",
       ".lighthouserc.js": "_f_lighthouse",
       ".lighthouserc.json": "_f_lighthouse",
       ".lighthouserc.yaml": "_f_lighthouse",
@@ -6255,6 +6326,7 @@
       ".jade-lint.json": "_f_pug",
       ".pug-lintrc.js": "_f_pug",
       ".pug-lintrc.json": "_f_pug",
+      "py.typed": "_f_pytyped",
       ".pyup": "_f_pyup",
       ".pyup.yml": "_f_pyup",
       "qmldir": "_f_qmldir",
@@ -6360,12 +6432,20 @@
       "tslint.json": "_f_tslint",
       "tslint.yaml": "_f_tslint",
       "tslint.yml": "_f_tslint",
+      "typedoc.js": "_f_typedoc",
+      "typedoc.json": "_f_typedoc",
       ".unibeautifyrc": "_f_light_unibeautify",
       "unibeautify.config.js": "_f_light_unibeautify",
       ".unibeautifyrc.js": "_f_light_unibeautify",
       ".unibeautifyrc.json": "_f_light_unibeautify",
       ".unibeautifyrc.yaml": "_f_light_unibeautify",
       ".unibeautifyrc.yml": "_f_light_unibeautify",
+      "unlicense": "_f_unlicense",
+      "unlicence": "_f_unlicense",
+      "unlicense.md": "_f_unlicense",
+      "unlicense.txt": "_f_unlicense",
+      "unlicence.md": "_f_unlicense",
+      "unlicence.txt": "_f_unlicense",
       "vagrantfile": "_f_vagrant",
       ".vimrc": "_f_vim",
       ".gvimrc": "_f_vim",
@@ -6543,7 +6623,7 @@
       "caddyfile": "_f_caddy",
       "cddl": "_f_cddl",
       "ceylon": "_f_ceylon",
-      "cfml": "_f_cf",
+      "cfml": "_f_cfm",
       "lang-cfml": "_f_cf",
       "cfc": "_f_cfc",
       "cfmhtml": "_f_cfm",
@@ -6593,6 +6673,7 @@
       "erb": "_f_erb",
       "erlang": "_f_erlang",
       "falcon": "_f_falcon",
+      "fql": "_f_fauna",
       "fortran": "_f_fortran",
       "fortran-modern": "_f_fortran",
       "FortranFreeForm": "_f_fortran",
@@ -6634,6 +6715,7 @@
       "hunspell.aff": "_f_hunspell",
       "hunspell.dic": "_f_hunspell",
       "hy": "_f_hy",
+      "hypr": "_f_hypr",
       "icl": "_f_icl",
       "imba": "_f_imba",
       "4GL": "_f_informix",
@@ -6674,6 +6756,7 @@
       "matlab": "_f_matlab",
       "maxscript": "_f_maxscript",
       "mel": "_f_maya",
+      "mdx": "_f_light_mdx",
       "mediawiki": "_f_mediawiki",
       "meson": "_f_meson",
       "mjml": "_f_mjml",
@@ -6695,6 +6778,7 @@
       "ocaml": "_f_ocaml",
       "ocamllex": "_f_ocaml",
       "menhir": "_f_ocaml",
+      "ogone": "_f_ogone",
       "openhab": "_f_light_openHAB",
       "pddl": "_f_pddl",
       "happenings": "_f_pddl_happenings",
@@ -6791,9 +6875,11 @@
       "doctex": "_f_light_tex",
       "plaintext": "_f_text",
       "textile": "_f_textile",
+      "tiltfile": "_f_tiltfile",
       "toml": "_f_light_toml",
       "tt": "_f_tt",
       "ttcn": "_f_ttcn",
+      "tuc": "_f_tuc",
       "twig": "_f_twig",
       "typescript": "_f_typescript",
       "typoscript": "_f_typo3",

@@ -99,9 +99,5 @@ export function getIconForFile(fileName: string) {
  * @return icon filename
  */
 export function getIconForOpenFolder(folderName: string) {
-  return (
-    getIconForFolder(folderName)
-      .split('.')
-      .shift() + '_opened.svg'
-  );
+  return getIconForFolder(folderName).split('.').shift() + '_opened.svg';
 }

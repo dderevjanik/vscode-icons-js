@@ -239,6 +239,9 @@
   "falcon": {
     "defaultExtension": "falcon"
   },
+  "fauna": {
+    "defaultExtension": "fql"
+  },
   "freemarker": {
     "defaultExtension": "ftl"
   },
@@ -334,6 +337,9 @@
   },
   "hy": {
     "defaultExtension": "hy"
+  },
+  "hypr": {
+    "defaultExtension": "hypr"
   },
   "icl": {
     "defaultExtension": "icl"
@@ -446,6 +452,9 @@
   "maxscript": {
     "defaultExtension": "ms"
   },
+  "mdx": {
+    "defaultExtension": "mdx"
+  },
   "mediawiki": {
     "defaultExtension": "mediawiki"
   },
@@ -496,6 +505,9 @@
   },
   "ocaml": {
     "defaultExtension": "ml"
+  },
+  "ogone": {
+    "defaultExtension": "o3"
   },
   "openEdge": {
     "defaultExtension": "w"
@@ -761,11 +773,17 @@
   "textmateyaml": {
     "defaultExtension": "YAML-tmLanguage"
   },
+  "tiltfile": {
+    "defaultExtension": "Tiltfile"
+  },
   "toml": {
     "defaultExtension": "toml"
   },
   "ttcn": {
     "defaultExtension": "ttcn3"
+  },
+  "tuc": {
+    "defaultExtension": "tuc"
   },
   "twig": {
     "defaultExtension": "twig"

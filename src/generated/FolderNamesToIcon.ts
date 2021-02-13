@@ -49,6 +49,7 @@ export const FolderNamesToIcon: { [key: string]: string } = {
   commandline: 'folder_type_cli.svg',
   console: 'folder_type_cli.svg',
   client: 'folder_type_client.svg',
+  clients: 'folder_type_client.svg',
   '.cmake': 'folder_type_cmake.svg',
   cmake: 'folder_type_cmake.svg',
   component: 'folder_type_component.svg',
@@ -360,5 +361,5 @@ export const FolderNamesToIcon: { [key: string]: string } = {
   windows: 'folder_type_windows.svg',
   win32: 'folder_type_windows.svg',
   www: 'folder_type_www.svg',
-  wwwroot: 'folder_type_www.svg'
+  wwwroot: 'folder_type_www.svg',
 };

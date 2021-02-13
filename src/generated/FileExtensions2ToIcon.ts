@@ -37,5 +37,5 @@ export const FileExtensions2ToIcon: { [key: string]: string } = {
   'e2e-test.tsx': 'file_type_testts.svg',
   'e2e-spec.ts': 'file_type_testts.svg',
   'e2e-spec.tsx': 'file_type_testts.svg',
-  'd.ts': 'file_type_typescriptdef.svg'
+  'd.ts': 'file_type_typescriptdef.svg',
 };
