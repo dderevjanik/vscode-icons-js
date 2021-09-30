@@ -80,6 +80,9 @@
   "befunge": {
     "defaultExtension": "bf"
   },
+  "bicep": {
+    "defaultExtension": "bicep"
+  },
   "bibtex": {
     "defaultExtension": "bib"
   },
@@ -110,6 +113,9 @@
   "caddyfile": {
     "defaultExtension": "Caddyfile"
   },
+  "casc": {
+    "defaultExtension": "casc"
+  },
   "cddl": {
     "defaultExtension": "cddl"
   },
@@ -139,6 +145,9 @@
   },
   "cobol": {
     "defaultExtension": "cbl"
+  },
+  "codeql": {
+    "defaultExtension": "ql"
   },
   "coffeescript": {
     "defaultExtension": "coffee"
@@ -377,9 +386,6 @@
   "jekyll": {
     "defaultExtension": "jekyll"
   },
-  "jinja": {
-    "defaultExtension": "jinja"
-  },
   "json": {
     "defaultExtension": "json"
   },
@@ -427,6 +433,9 @@
   },
   "literatehaskell": {
     "defaultExtension": "lhs"
+  },
+  "log": {
+    "defaultExtension": "log"
   },
   "lolcode": {
     "defaultExtension": "lol"
@@ -656,6 +665,9 @@
   "sbt": {
     "defaultExtension": "sbt"
   },
+  "scad": {
+    "defaultExtension": "scad"
+  },
   "scala": {
     "defaultExtension": "scala"
   },
@@ -697,6 +709,9 @@
   },
   "solidity": {
     "defaultExtension": "sol"
+  },
+  "sparql": {
+    "defaultExtension": "rq"
   },
   "sqf": {
     "defaultExtension": "sqf"
@@ -751,6 +766,9 @@
   },
   "t4": {
     "defaultExtension": "tt"
+  },
+  "teal": {
+    "defaultExtension": "teal"
   },
   "templatetoolkit": {
     "defaultExtension": "tt3"
